@@ -1,0 +1,890 @@
+2024-11-29 01:53:02,639 - INFO - Successfully initialized all OCR readers with local models
+2024-11-29 02:16:09,807 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:09,808 - ERROR - OCR processing error for UUID b7db2943-327d-47df-822b-f5bdd07c4c08_1732846569: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:09,819 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:09,819 - ERROR - OCR processing error for UUID 3ed30bf2-776e-4bc0-9684-7b9e775c3777_1732846569: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:09,826 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:09,826 - ERROR - OCR processing error for UUID 67e48a66-94ea-4240-b12b-d4e9cc545159_1732846569: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:09,842 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:09,842 - ERROR - OCR processing error for UUID faa5bc70-f748-4866-a66d-17f285cb82a4_1732846569: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:09,852 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:09,852 - ERROR - OCR processing error for UUID 8bfe1f92-e723-4c9d-8181-a8ca2bb5cc9f_1732846569: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:09,858 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:09,858 - ERROR - OCR processing error for UUID 4eff18cc-b41e-4129-9196-52bcd78c3ce9_1732846569: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:09,870 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:09,870 - ERROR - OCR processing error for UUID 83e06952-e5cf-410d-9036-2e888f7d5b3b_1732846569: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:09,877 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:09,877 - ERROR - OCR processing error for UUID df1c440f-159d-4480-b9f0-acf4e927fbb2_1732846569: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:09,899 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:09,899 - ERROR - OCR processing error for UUID c225d473-870b-4ef5-bda2-84b542818085_1732846569: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:09,910 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:09,911 - ERROR - OCR processing error for UUID 2e6d5e53-0d4a-493b-9603-a8f14f878de3_1732846569: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:09,928 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:09,929 - ERROR - OCR processing error for UUID fbff0802-71e2-42c9-9667-1dd3f2b53a7a_1732846569: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:09,936 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:09,936 - ERROR - OCR processing error for UUID 69f9df24-24b1-4760-8127-abf7e959a6a3_1732846569: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:09,952 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:09,952 - ERROR - OCR processing error for UUID d4d6ba83-ecde-49bd-b2de-6a5c47de1b04_1732846569: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:09,971 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:09,971 - ERROR - OCR processing error for UUID 8d7f3aa8-0db2-4db4-8c93-1375a2740cae_1732846569: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:09,986 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:09,986 - ERROR - OCR processing error for UUID 6974dad8-93ae-4bad-95fe-1d83ebdc1e95_1732846569: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,010 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,010 - ERROR - OCR processing error for UUID 7e0a8074-8e49-440e-bb4c-3b62761ee4d4_1732846569: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,028 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,028 - ERROR - OCR processing error for UUID c56807c5-cf63-46f6-aac7-deb73f7047e6_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,034 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,034 - ERROR - OCR processing error for UUID 63cf887b-1dd9-4f99-8c0f-38f86b14a7c7_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,045 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,045 - ERROR - OCR processing error for UUID 26a4b259-391a-4370-a118-3400aca91422_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,055 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,055 - ERROR - OCR processing error for UUID 8e75a9a8-133c-4ef4-b3ce-5b15858482bf_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,064 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,064 - ERROR - OCR processing error for UUID 8c501a0e-b487-43f2-8479-0c6003f171ea_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,075 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,076 - ERROR - OCR processing error for UUID f804cab9-240b-4b83-b21a-2ae8e8d25c79_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,088 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,088 - ERROR - OCR processing error for UUID 4ce3714a-7928-4b31-90f3-432ad21ce468_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,098 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,098 - ERROR - OCR processing error for UUID fa9db592-2124-406a-a9a8-21ca1551ff00_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,115 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,115 - ERROR - OCR processing error for UUID cf8ec844-8f82-449c-b73a-c0da11672e80_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,130 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,130 - ERROR - OCR processing error for UUID 4ad58954-7372-4dda-98f4-c37da5a72fb1_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,140 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,140 - ERROR - OCR processing error for UUID 599d2b1a-1e6c-4dcb-a5b3-70baea34a966_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,153 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,153 - ERROR - OCR processing error for UUID 01a5b1d8-76b3-455f-9460-612d7ef7e2be_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,163 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,163 - ERROR - OCR processing error for UUID eec25ec4-bb92-4c31-9263-e07b9c4e056f_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,175 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,175 - ERROR - OCR processing error for UUID 7615308e-ee4f-439c-ab2b-d6a331eb1f27_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,196 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,196 - ERROR - OCR processing error for UUID 69a8c9e4-bf81-4080-9a3f-92d879bdd1b9_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,245 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,245 - ERROR - OCR processing error for UUID b1efdb24-cb0d-48e4-802c-fa55d1af86f9_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,254 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,254 - ERROR - OCR processing error for UUID a2763168-75b3-4615-9078-0bafe1a69d2a_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,265 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,266 - ERROR - OCR processing error for UUID c1964fa7-2dcb-4058-8661-07ea90e4846b_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,278 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,279 - ERROR - OCR processing error for UUID 864d36fa-474c-4e67-9e67-d1ed39f2399c_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,290 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,290 - ERROR - OCR processing error for UUID 59df3db6-f0c3-4efc-a2c1-d4154aba4852_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,312 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,312 - ERROR - OCR processing error for UUID fa330c6f-2dd9-42ec-99df-447d279b9f07_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,333 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,334 - ERROR - OCR processing error for UUID 006a46d9-aff2-455d-8927-08b6d0611958_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,358 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,358 - ERROR - OCR processing error for UUID e4a54250-4ac1-4dba-b4bc-1fae059fc94a_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,387 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,387 - ERROR - OCR processing error for UUID a84b7743-67d7-4b5f-b044-a0b5491f9a9c_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,413 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,413 - ERROR - OCR processing error for UUID f284ff5b-c21b-44fd-a426-9667ca1c1f2f_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,423 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,424 - ERROR - OCR processing error for UUID 327f7dff-2436-4e94-a1bc-208765d1e629_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,433 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,433 - ERROR - OCR processing error for UUID 0ba08713-65c1-43d2-ae19-22ed8f4ccf60_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,445 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,446 - ERROR - OCR processing error for UUID fa55cfc3-b189-46a1-b4f4-8d27a53810d8_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,456 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,456 - ERROR - OCR processing error for UUID 67ff0ff1-c72f-48ba-8683-204136c0df92_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,481 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,481 - ERROR - OCR processing error for UUID b77f98ac-c4ff-41a7-b030-e7afc2d9f496_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,489 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,489 - ERROR - OCR processing error for UUID a5d1eba3-bfcf-4b61-bc60-d5beb099ba8b_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,511 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,511 - ERROR - OCR processing error for UUID ab4d5887-654a-4822-bca7-6126d82afd05_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,519 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,519 - ERROR - OCR processing error for UUID b6a39008-a44e-497f-8501-a98121ced95c_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,527 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,527 - ERROR - OCR processing error for UUID 8576b30a-8488-4ed8-8873-cf205a702a1d_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,536 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,536 - ERROR - OCR processing error for UUID 9e861714-c337-4d2d-ba80-e77ac902c4de_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,542 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,542 - ERROR - OCR processing error for UUID b468e3a6-eb4a-40f7-948f-a1a6e99b6726_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,555 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,555 - ERROR - OCR processing error for UUID 222de8b2-0d34-4d75-ae44-d1d5a9d9f427_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,577 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,577 - ERROR - OCR processing error for UUID 4b697c22-c4e7-4bd3-9aac-50a82e1f7df5_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,589 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,590 - ERROR - OCR processing error for UUID 09f88fdd-0439-47cf-b76a-767208593476_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,599 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,599 - ERROR - OCR processing error for UUID a0302c15-001a-4105-bc08-1c1248b9e214_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,613 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,613 - ERROR - OCR processing error for UUID 55a0cdb5-b238-4867-94a6-37d761a94a2e_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,622 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,622 - ERROR - OCR processing error for UUID 191450d6-af79-4890-bb54-03e057dd0442_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,639 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,639 - ERROR - OCR processing error for UUID 1f9dc8b5-4b8a-472b-bc6d-465e5298357b_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,653 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,653 - ERROR - OCR processing error for UUID 4d3b4c97-9e27-4a6b-b4c7-203616ec7837_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,669 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,670 - ERROR - OCR processing error for UUID c4b9cd52-fec8-43d1-9adf-96dfb3d46a3d_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,685 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,685 - ERROR - OCR processing error for UUID ad21e5a6-98ce-457e-b4fa-33155a595f7e_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,694 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,694 - ERROR - OCR processing error for UUID eef12e41-4ebe-4c6f-8ebb-9041d8405e9e_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,761 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f65297904f0>
+2024-11-29 02:16:10,761 - ERROR - OCR processing error for UUID afd8fc23-eebb-4e15-b942-4ad5ca08341d_1732846570: cannot identify image file <_io.BytesIO object at 0x7f65297904f0>
+2024-11-29 02:16:10,786 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f65299895d0>
+2024-11-29 02:16:10,786 - ERROR - OCR processing error for UUID d8c2977a-9784-42ad-92a1-3073cebbc1e8_1732846570: cannot identify image file <_io.BytesIO object at 0x7f65299895d0>
+2024-11-29 02:16:10,800 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,800 - ERROR - OCR processing error for UUID 8f48c3d7-d9e6-410a-83d1-cc64575e127a_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,815 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,815 - ERROR - OCR processing error for UUID c8cc7266-a490-4103-b5f1-6a36713f352a_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,826 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,826 - ERROR - OCR processing error for UUID 57eb3824-ad49-461f-a016-6297d4ba9a93_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,852 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,852 - ERROR - OCR processing error for UUID cf1b198b-d0b4-45d2-8064-9d435fdb408d_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,874 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,874 - ERROR - OCR processing error for UUID 31fc1482-ef3f-4988-95cb-ed2288a73700_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,885 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,885 - ERROR - OCR processing error for UUID e57cc57f-30a2-4a73-820d-da45afeb7e09_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,907 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,907 - ERROR - OCR processing error for UUID 2251c533-6491-4aa4-9b1e-3ea8e70d9c20_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,928 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,928 - ERROR - OCR processing error for UUID f52873e6-e596-45a4-879c-ee34d535421f_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,952 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,952 - ERROR - OCR processing error for UUID aaca5f8b-8c21-4e22-8209-bbe9eb1292ac_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,979 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:10,979 - ERROR - OCR processing error for UUID 8c02833f-4ddd-45d7-939a-9cc04bb88d6d_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:11,016 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:11,016 - ERROR - OCR processing error for UUID 890748e5-f192-4927-8cd0-f3ac9ab4826e_1732846570: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:11,047 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:11,047 - ERROR - OCR processing error for UUID 41917caa-f800-4c37-b9b7-1c1cabfde8e9_1732846571: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:11,076 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:11,076 - ERROR - OCR processing error for UUID 52d72caa-9b41-4459-87f3-c866b3f53553_1732846571: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:11,103 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:11,103 - ERROR - OCR processing error for UUID 0a01d7b6-8cc6-4c8a-ba6e-cf7dab0f3572_1732846571: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:11,126 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:11,126 - ERROR - OCR processing error for UUID 1a412047-c532-4f3d-8b16-9eb8313a9c96_1732846571: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:11,152 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:11,152 - ERROR - OCR processing error for UUID f40c2801-9a08-425b-b14c-8dd2e11407ed_1732846571: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:11,177 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:11,177 - ERROR - OCR processing error for UUID 875beeb7-ddc4-40f3-939a-20dfbc271e6a_1732846571: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:11,198 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:11,198 - ERROR - OCR processing error for UUID 3e5cee84-4b78-4500-99d4-b2f9765c6900_1732846571: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:11,219 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:11,219 - ERROR - OCR processing error for UUID d4cd0f7e-2f4e-4e12-8ca2-49697aa84880_1732846571: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:11,241 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:11,241 - ERROR - OCR processing error for UUID cb0e782b-2503-43b7-951d-6320d995b4ed_1732846571: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:11,252 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:11,252 - ERROR - OCR processing error for UUID bda470d4-18a1-4024-8489-2cd46609957b_1732846571: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:11,257 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f65297452b0>
+2024-11-29 02:16:11,257 - ERROR - OCR processing error for UUID ec5ca860-bfb8-4c70-8475-c850764f5ed3_1732846571: cannot identify image file <_io.BytesIO object at 0x7f65297452b0>
+2024-11-29 02:16:11,262 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f65299895d0>
+2024-11-29 02:16:11,262 - ERROR - OCR processing error for UUID aaf189bf-cfca-432d-b18c-d68dc81eeeb3_1732846571: cannot identify image file <_io.BytesIO object at 0x7f65299895d0>
+2024-11-29 02:16:11,266 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f652a016de0>
+2024-11-29 02:16:11,267 - ERROR - OCR processing error for UUID 89c9a4b9-5f76-47c3-9ddb-d6681986d35d_1732846571: cannot identify image file <_io.BytesIO object at 0x7f652a016de0>
+2024-11-29 02:16:11,271 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f65297ed2b0>
+2024-11-29 02:16:11,271 - ERROR - OCR processing error for UUID 695ed0a2-8a85-441e-a87f-5d06d05d2f8b_1732846571: cannot identify image file <_io.BytesIO object at 0x7f65297ed2b0>
+2024-11-29 02:16:11,276 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f6529627010>
+2024-11-29 02:16:11,276 - ERROR - OCR processing error for UUID 80f513b4-5200-47b2-9734-576dfa143900_1732846571: cannot identify image file <_io.BytesIO object at 0x7f6529627010>
+2024-11-29 02:16:11,286 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:11,286 - ERROR - OCR processing error for UUID 27560a7f-4b2c-4909-8963-21e58d2a02be_1732846571: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,523 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,523 - ERROR - OCR processing error for UUID 16283561-97b2-4076-8a4b-fa9190f78265_1732846602: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,532 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,532 - ERROR - OCR processing error for UUID d445a2b2-b0e3-4847-8b18-76cc1489abf3_1732846602: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,538 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,538 - ERROR - OCR processing error for UUID 89554114-4983-4e3f-aed6-39836c40f493_1732846602: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,553 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,553 - ERROR - OCR processing error for UUID 3b10740f-06f5-4353-b920-011a5c5ed4c3_1732846602: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,563 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,563 - ERROR - OCR processing error for UUID 10385039-874e-498f-8a2a-270b106a2561_1732846602: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,569 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,569 - ERROR - OCR processing error for UUID 01a4d840-5574-4c84-a6df-4c3ffdefdaa1_1732846602: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,579 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,579 - ERROR - OCR processing error for UUID 574ccf4e-f540-44fe-a06c-dc330d1421d9_1732846602: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,586 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,586 - ERROR - OCR processing error for UUID 94c7d333-5769-4d08-873a-4047540e8c9c_1732846602: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,608 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,608 - ERROR - OCR processing error for UUID 3ed724db-5f11-488c-a7f6-4ce01951cc0b_1732846602: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,620 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,620 - ERROR - OCR processing error for UUID aaca9a33-ba3d-443f-85b3-ad8fdae2f6d9_1732846602: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,637 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,637 - ERROR - OCR processing error for UUID 794de4fd-933d-49f3-9c17-d25735c429f7_1732846602: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,644 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,644 - ERROR - OCR processing error for UUID 7f7fc575-2fba-4d43-936d-519655c4c943_1732846602: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,660 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,660 - ERROR - OCR processing error for UUID 6c8a3445-f08a-4630-b879-697cefc651e0_1732846602: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,676 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,676 - ERROR - OCR processing error for UUID 95f215a2-43fd-47e9-9ec2-d548be1d1733_1732846602: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,691 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,691 - ERROR - OCR processing error for UUID c00e05f4-1383-499c-a3da-6e5a5c928334_1732846602: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,712 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,712 - ERROR - OCR processing error for UUID 541cdcb7-8095-4655-b544-559e97ece791_1732846602: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,726 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,726 - ERROR - OCR processing error for UUID 2b109d5b-c288-4714-b71e-7a46832e68c8_1732846602: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,734 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,734 - ERROR - OCR processing error for UUID 7be63203-2a11-40a8-a321-5da1f5c28009_1732846602: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,746 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,746 - ERROR - OCR processing error for UUID eaa10f43-0bf5-4b91-aa63-25ee85be7328_1732846602: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,754 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,754 - ERROR - OCR processing error for UUID df722eaa-a931-440a-923f-0ac9c60773c9_1732846602: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,763 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,763 - ERROR - OCR processing error for UUID d7209d16-3c93-44d5-9ed2-8a0e6ee0b7dc_1732846602: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,775 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,775 - ERROR - OCR processing error for UUID 53c92ef2-5218-4170-941e-c9c553f51e7a_1732846602: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,787 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,787 - ERROR - OCR processing error for UUID 24130bce-6b42-4ef5-a8b9-63c22908df68_1732846602: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,796 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,796 - ERROR - OCR processing error for UUID 570e7321-d375-49f7-b98b-9328c09b0c05_1732846602: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,813 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,813 - ERROR - OCR processing error for UUID 5c86dc76-1942-4576-aad0-6a1401eaf855_1732846602: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,826 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,826 - ERROR - OCR processing error for UUID 3a35b9bc-a82b-4503-924b-018f9e43b32c_1732846602: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,838 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,838 - ERROR - OCR processing error for UUID 08656f47-c816-4ea4-ac5c-908f5bfaf3c7_1732846602: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,851 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,851 - ERROR - OCR processing error for UUID 0d8a02db-7599-4c63-ac90-47c904638da1_1732846602: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,860 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,860 - ERROR - OCR processing error for UUID 026b0765-99da-4f88-8691-63cb28538539_1732846602: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,873 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,873 - ERROR - OCR processing error for UUID bb3d25e2-bf81-49f7-9da5-79ac58cc484d_1732846602: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,891 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,891 - ERROR - OCR processing error for UUID 6838fdcf-f452-4914-82dc-8d215c511c26_1732846602: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,933 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,933 - ERROR - OCR processing error for UUID cc7dce9c-2507-45ff-966f-039c7dd4fe64_1732846602: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,944 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,944 - ERROR - OCR processing error for UUID 9c0462d6-9e39-4447-81d0-e0df527a9fb5_1732846602: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,956 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,956 - ERROR - OCR processing error for UUID 39781477-d543-40b2-8ed0-8c99e38840bb_1732846602: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,968 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,968 - ERROR - OCR processing error for UUID 5d788abc-20f8-41d0-a69c-9e6b3e76f6d7_1732846602: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,980 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,980 - ERROR - OCR processing error for UUID 4d598c70-2ebc-4cdd-bffe-9d52a21da70e_1732846602: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,998 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:42,998 - ERROR - OCR processing error for UUID 21413ca4-b630-41bc-9264-697797c2db0f_1732846602: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,022 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,022 - ERROR - OCR processing error for UUID 0e8a0bcd-a95a-493f-9d9d-16fbc6e2957e_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,047 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,047 - ERROR - OCR processing error for UUID 7478c3b1-f295-45c7-b25c-0c6645277f15_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,075 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,075 - ERROR - OCR processing error for UUID bfb913ad-a7a3-4ddc-84f6-1e115effd126_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,102 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,102 - ERROR - OCR processing error for UUID b9284fe6-dd0c-4e53-aea2-d81e74ee7f29_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,112 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,112 - ERROR - OCR processing error for UUID 55c14a13-1434-452d-a841-d1794f0999a0_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,121 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,121 - ERROR - OCR processing error for UUID 2a4dfba9-afb9-459c-b550-c0a2ebe1345b_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,134 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,134 - ERROR - OCR processing error for UUID 44af06f6-a261-41b4-a81a-0b664806ac35_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,143 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,144 - ERROR - OCR processing error for UUID cbe61568-6301-4049-b0a8-5a2997142068_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,168 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,168 - ERROR - OCR processing error for UUID b029a01d-3def-4ca1-828c-a96d0368db23_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,176 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,176 - ERROR - OCR processing error for UUID 707e6e50-3ccf-4a1b-9a2c-e6a138b72e3b_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,200 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,200 - ERROR - OCR processing error for UUID 9e10f3f3-c96f-4172-9f29-237dd89f0318_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,207 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,207 - ERROR - OCR processing error for UUID dfeb40ce-11cb-4737-9bce-60ce9f907a3a_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,214 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,215 - ERROR - OCR processing error for UUID a0743605-534b-4f3e-a1eb-8111f6618006_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,224 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,224 - ERROR - OCR processing error for UUID 7b516302-f2c5-4b5a-803d-8b46bd763ea3_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,230 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,230 - ERROR - OCR processing error for UUID 4ff6f097-fc93-43cb-9f6d-a4279384b1a2_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,244 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,244 - ERROR - OCR processing error for UUID 784ec0fb-d495-4735-803d-f35f8358adaf_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,267 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,267 - ERROR - OCR processing error for UUID 89316168-0b2a-4123-8cd9-b3ecd1acd7d4_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,278 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,278 - ERROR - OCR processing error for UUID deb500fc-82b6-4d1c-9b36-5fd3b756a91a_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,289 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,289 - ERROR - OCR processing error for UUID 746711f4-c282-464a-a8e1-108f2672297d_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,303 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,303 - ERROR - OCR processing error for UUID f156ecf5-4d12-4791-8559-2298e72df7d0_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,311 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,311 - ERROR - OCR processing error for UUID 84c78bcc-2315-41c1-a7f3-76531ef4834f_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,327 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,327 - ERROR - OCR processing error for UUID aee04aa1-7628-434f-8a14-7b646ef61ea0_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,343 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,343 - ERROR - OCR processing error for UUID 5c90621a-ff9a-445f-8acc-870c1db7f50d_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,357 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,357 - ERROR - OCR processing error for UUID bc80c43d-87bd-444f-a192-b043f6073959_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,374 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,374 - ERROR - OCR processing error for UUID e1227f9f-5975-4025-895d-91a299632a7b_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,383 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,383 - ERROR - OCR processing error for UUID 897f2aeb-bc78-478c-9b79-538a407f937c_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,403 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f65296be660>
+2024-11-29 02:16:43,403 - ERROR - OCR processing error for UUID 1c77210f-bc21-4a25-bac0-9bf1d4453c57_1732846603: cannot identify image file <_io.BytesIO object at 0x7f65296be660>
+2024-11-29 02:16:43,426 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f65296be4d0>
+2024-11-29 02:16:43,426 - ERROR - OCR processing error for UUID c574b6c2-617c-45cd-9844-fffb77b14d73_1732846603: cannot identify image file <_io.BytesIO object at 0x7f65296be4d0>
+2024-11-29 02:16:43,440 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,440 - ERROR - OCR processing error for UUID 6c141e69-aeb0-4d5b-ac81-b68072595b4b_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,451 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,451 - ERROR - OCR processing error for UUID 7811075e-ff4e-4b27-a08c-efb5e62eaa0b_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,464 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,464 - ERROR - OCR processing error for UUID 1efc4c16-7780-4b6f-a46b-156a26496bec_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,492 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,492 - ERROR - OCR processing error for UUID 6b14a94b-9114-4641-b9eb-43a8ac9458f2_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,515 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,515 - ERROR - OCR processing error for UUID 070329f2-39d2-47f8-adb6-60a91790b75d_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,525 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,525 - ERROR - OCR processing error for UUID d9874b7e-2ca6-4008-b9ce-f65df032364a_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,547 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,547 - ERROR - OCR processing error for UUID 65f73f81-58f2-440e-92b1-e89fd8f35820_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,571 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,571 - ERROR - OCR processing error for UUID e47cc047-28ce-46ca-a533-52608e1bcc97_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,595 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,595 - ERROR - OCR processing error for UUID 157c7a39-583b-4d90-8d85-2f7b792cd3a4_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,620 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,620 - ERROR - OCR processing error for UUID 74a46034-1aa1-4ac1-aeae-15a741110602_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,651 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,652 - ERROR - OCR processing error for UUID b0174d0d-9f46-41e6-ae9b-166663447b1a_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,685 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,686 - ERROR - OCR processing error for UUID 0d12e500-7032-44c1-a845-20344dd74e39_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,717 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,717 - ERROR - OCR processing error for UUID 18ec56b4-36d8-4fde-818d-1eb32b31b6e2_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,744 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,744 - ERROR - OCR processing error for UUID d6e4c61c-81a8-4320-8b57-e25ccc7c23cc_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,768 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,768 - ERROR - OCR processing error for UUID 5628803e-6ec6-442a-82d7-6bbb7cb72da4_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,794 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,794 - ERROR - OCR processing error for UUID 09632d1b-3dbc-4a1d-b2b9-443bf4fb3f92_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,818 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,818 - ERROR - OCR processing error for UUID c5eb4099-b607-48d2-bd6a-39fdbd09ff61_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,838 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,838 - ERROR - OCR processing error for UUID f3a04d59-7464-406c-9813-d1b947ff5956_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,860 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,861 - ERROR - OCR processing error for UUID f78308b6-b695-424b-a3d9-20940c57a487_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,881 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,881 - ERROR - OCR processing error for UUID e61947f7-c0fe-403a-88c9-af808b4028e1_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,890 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,890 - ERROR - OCR processing error for UUID 401a6f1a-7f11-461e-8c07-e97ddbc33047_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,896 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f65296bd8f0>
+2024-11-29 02:16:43,896 - ERROR - OCR processing error for UUID 036dd455-8b7f-4cc1-8337-69d64ef49ac5_1732846603: cannot identify image file <_io.BytesIO object at 0x7f65296bd8f0>
+2024-11-29 02:16:43,900 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f65296bea70>
+2024-11-29 02:16:43,900 - ERROR - OCR processing error for UUID 96e9bc27-db08-4f64-9464-6fa93625200c_1732846603: cannot identify image file <_io.BytesIO object at 0x7f65296bea70>
+2024-11-29 02:16:43,905 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f65296bde90>
+2024-11-29 02:16:43,905 - ERROR - OCR processing error for UUID 2b5599bc-225b-4f9e-ab7f-e0ed0c3716af_1732846603: cannot identify image file <_io.BytesIO object at 0x7f65296bde90>
+2024-11-29 02:16:43,909 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f65296bd7b0>
+2024-11-29 02:16:43,909 - ERROR - OCR processing error for UUID fecbd349-8199-484e-904b-acf5eef173cb_1732846603: cannot identify image file <_io.BytesIO object at 0x7f65296bd7b0>
+2024-11-29 02:16:43,914 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f65296be750>
+2024-11-29 02:16:43,914 - ERROR - OCR processing error for UUID f5cfc274-f2fb-43a1-aeb7-ce0d9d2b5ebf_1732846603: cannot identify image file <_io.BytesIO object at 0x7f65296be750>
+2024-11-29 02:16:43,923 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:43,924 - ERROR - OCR processing error for UUID 9e6ef20f-c1b3-4e58-b744-e1a04bb68972_1732846603: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:44,768 - ERROR - 이미지 처리 중 오류 발생: Too much memory used in text chunks: 70740144>MAX_TEXT_MEMORY
+2024-11-29 02:16:44,768 - ERROR - OCR processing error for UUID 3a88ec3c-bc4e-42e0-846a-42e1f1bbc881_1732846603: Too much memory used in text chunks: 70740144>MAX_TEXT_MEMORY
+2024-11-29 02:16:44,803 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:44,803 - ERROR - OCR processing error for UUID 4f9d0728-6d2d-4b6e-8b8b-545b7037f4a7_1732846604: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:44,817 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:44,817 - ERROR - OCR processing error for UUID d4645f86-8938-431c-9ed6-ca00e52a3c8a_1732846604: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:44,826 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:44,826 - ERROR - OCR processing error for UUID 54ebcb36-810f-4de8-af61-1b6c882f80bd_1732846604: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:44,837 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:44,837 - ERROR - OCR processing error for UUID 4f64e9cf-0c7d-4a40-9270-e933cf997501_1732846604: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:44,847 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:44,847 - ERROR - OCR processing error for UUID 99ebc920-6973-4374-8731-41bac4946004_1732846604: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:44,857 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:44,857 - ERROR - OCR processing error for UUID 7fab0ac9-e6af-44b3-9834-da00588118de_1732846604: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:44,866 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:44,866 - ERROR - OCR processing error for UUID 557118a6-b0e4-49fd-887c-9f1216b9d484_1732846604: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:44,877 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:44,877 - ERROR - OCR processing error for UUID 24458533-c0d9-4b40-8481-57c51f8dc9ee_1732846604: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:44,882 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f65296bebb0>
+2024-11-29 02:16:44,882 - ERROR - OCR processing error for UUID b5c22d04-d5e0-4630-8a49-7a01f7b0f185_1732846604: cannot identify image file <_io.BytesIO object at 0x7f65296bebb0>
+2024-11-29 02:16:44,887 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f65296beca0>
+2024-11-29 02:16:44,887 - ERROR - OCR processing error for UUID 05194370-37bb-497d-9d60-a31cb314ccb7_1732846604: cannot identify image file <_io.BytesIO object at 0x7f65296beca0>
+2024-11-29 02:16:44,892 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f65296bea20>
+2024-11-29 02:16:44,892 - ERROR - OCR processing error for UUID e57955dc-a835-4560-87a1-1ff20a9c846f_1732846604: cannot identify image file <_io.BytesIO object at 0x7f65296bea20>
+2024-11-29 02:16:44,897 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f65296bcf90>
+2024-11-29 02:16:44,897 - ERROR - OCR processing error for UUID 2b2abef8-86f8-4aeb-a0f4-b786061bbf93_1732846604: cannot identify image file <_io.BytesIO object at 0x7f65296bcf90>
+2024-11-29 02:16:44,901 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f65296bebb0>
+2024-11-29 02:16:44,901 - ERROR - OCR processing error for UUID 263569f1-0fb2-4d2a-96dc-22634bfaab0e_1732846604: cannot identify image file <_io.BytesIO object at 0x7f65296bebb0>
+2024-11-29 02:16:44,905 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f65296be7f0>
+2024-11-29 02:16:44,905 - ERROR - OCR processing error for UUID da91ed58-b18a-4331-a5c5-02428f06ea83_1732846604: cannot identify image file <_io.BytesIO object at 0x7f65296be7f0>
+2024-11-29 02:16:44,910 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f65296bda30>
+2024-11-29 02:16:44,910 - ERROR - OCR processing error for UUID e5f0b8a2-13cd-4acf-b7b9-f0434f3edbc6_1732846604: cannot identify image file <_io.BytesIO object at 0x7f65296bda30>
+2024-11-29 02:16:44,914 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f65296be930>
+2024-11-29 02:16:44,914 - ERROR - OCR processing error for UUID 10d14e89-42d7-4640-aa1e-0c4b536b02b2_1732846604: cannot identify image file <_io.BytesIO object at 0x7f65296be930>
+2024-11-29 02:16:44,918 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f65296bde90>
+2024-11-29 02:16:44,919 - ERROR - OCR processing error for UUID 432edf6f-cda5-4aa8-a632-3dca08338d81_1732846604: cannot identify image file <_io.BytesIO object at 0x7f65296bde90>
+2024-11-29 02:16:44,923 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f65296be5c0>
+2024-11-29 02:16:44,923 - ERROR - OCR processing error for UUID f486be0f-c08f-48f0-a442-2047caea96c5_1732846604: cannot identify image file <_io.BytesIO object at 0x7f65296be5c0>
+2024-11-29 02:16:44,927 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f65296be7a0>
+2024-11-29 02:16:44,927 - ERROR - OCR processing error for UUID b5071aec-0f73-410d-b33f-7eb0864d2e4a_1732846604: cannot identify image file <_io.BytesIO object at 0x7f65296be7a0>
+2024-11-29 02:16:44,931 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f65296bebb0>
+2024-11-29 02:16:44,931 - ERROR - OCR processing error for UUID 2a138e13-f3b5-40f8-9848-c662d6a9bc94_1732846604: cannot identify image file <_io.BytesIO object at 0x7f65296bebb0>
+2024-11-29 02:16:44,951 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:44,951 - ERROR - OCR processing error for UUID 3241e213-357a-4f95-97f8-d80876620fe6_1732846604: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:44,967 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:44,967 - ERROR - OCR processing error for UUID 46fe033c-7a17-46a8-9036-93e6ef6ae785_1732846604: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:44,979 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:44,979 - ERROR - OCR processing error for UUID 66d0d618-d5a7-4f1d-9b24-566ec19f7f44_1732846604: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:44,999 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:44,999 - ERROR - OCR processing error for UUID cde0c98f-c423-44d5-b623-02de172bbd2f_1732846604: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,020 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,020 - ERROR - OCR processing error for UUID e6dd7fe7-5a53-429d-bc9a-8efd3f1e039e_1732846605: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,039 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,040 - ERROR - OCR processing error for UUID feea1dfc-3402-43d9-b75e-bb705a1e2216_1732846605: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,064 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,064 - ERROR - OCR processing error for UUID 6ea2e0b3-2ffb-4055-95a3-454bc4ecb597_1732846605: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,085 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,085 - ERROR - OCR processing error for UUID 8ba9ad33-9203-4a26-b419-0bf38696ffb9_1732846605: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,111 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,111 - ERROR - OCR processing error for UUID 79055ba0-62d7-4b26-8319-503a3260c4a9_1732846605: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,117 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f65296be660>
+2024-11-29 02:16:45,117 - ERROR - OCR processing error for UUID 2f722086-ae85-4058-8bf3-4356243a605b_1732846605: cannot identify image file <_io.BytesIO object at 0x7f65296be660>
+2024-11-29 02:16:45,122 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f65296bd7b0>
+2024-11-29 02:16:45,122 - ERROR - OCR processing error for UUID 4e76dbf5-4801-4fba-8a4f-4e9676773716_1732846605: cannot identify image file <_io.BytesIO object at 0x7f65296bd7b0>
+2024-11-29 02:16:45,127 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f65296beb60>
+2024-11-29 02:16:45,127 - ERROR - OCR processing error for UUID 14d0d150-0961-4d73-9344-72fa5d1ac47c_1732846605: cannot identify image file <_io.BytesIO object at 0x7f65296beb60>
+2024-11-29 02:16:45,132 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f65296be930>
+2024-11-29 02:16:45,132 - ERROR - OCR processing error for UUID d31902f1-e714-4e3d-bb4a-7b91c81ff743_1732846605: cannot identify image file <_io.BytesIO object at 0x7f65296be930>
+2024-11-29 02:16:45,136 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f65296be750>
+2024-11-29 02:16:45,136 - ERROR - OCR processing error for UUID 4b5ae45b-3c5e-497e-81c7-6941207ce188_1732846605: cannot identify image file <_io.BytesIO object at 0x7f65296be750>
+2024-11-29 02:16:45,140 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f65296beed0>
+2024-11-29 02:16:45,141 - ERROR - OCR processing error for UUID 4b05a5c7-7f1a-4d06-af37-ea29e508e6a7_1732846605: cannot identify image file <_io.BytesIO object at 0x7f65296beed0>
+2024-11-29 02:16:45,145 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f65296bd7b0>
+2024-11-29 02:16:45,145 - ERROR - OCR processing error for UUID b498bd1c-262a-4942-b84d-9016fb990c3a_1732846605: cannot identify image file <_io.BytesIO object at 0x7f65296bd7b0>
+2024-11-29 02:16:45,149 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f65296beb60>
+2024-11-29 02:16:45,150 - ERROR - OCR processing error for UUID 1e0212f0-487c-473e-89ba-8fb2b5449a73_1732846605: cannot identify image file <_io.BytesIO object at 0x7f65296beb60>
+2024-11-29 02:16:45,154 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f65296be930>
+2024-11-29 02:16:45,154 - ERROR - OCR processing error for UUID de88aa76-6c83-4793-bfab-d8b73bf9f33b_1732846605: cannot identify image file <_io.BytesIO object at 0x7f65296be930>
+2024-11-29 02:16:45,158 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f65296be750>
+2024-11-29 02:16:45,158 - ERROR - OCR processing error for UUID 1a03143d-9c0e-4809-9bf4-6f3f324f8a5e_1732846605: cannot identify image file <_io.BytesIO object at 0x7f65296be750>
+2024-11-29 02:16:45,162 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f65296beed0>
+2024-11-29 02:16:45,163 - ERROR - OCR processing error for UUID fbd9ffce-8e88-424e-8047-5ed63c5775e0_1732846605: cannot identify image file <_io.BytesIO object at 0x7f65296beed0>
+2024-11-29 02:16:45,167 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f65296bd7b0>
+2024-11-29 02:16:45,167 - ERROR - OCR processing error for UUID 5f7d9367-22d7-4e1b-a607-ed5660581a27_1732846605: cannot identify image file <_io.BytesIO object at 0x7f65296bd7b0>
+2024-11-29 02:16:45,171 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f65296beb60>
+2024-11-29 02:16:45,171 - ERROR - OCR processing error for UUID 393d5b38-a153-4b36-96ad-a623ce7584c9_1732846605: cannot identify image file <_io.BytesIO object at 0x7f65296beb60>
+2024-11-29 02:16:45,175 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f65296bf010>
+2024-11-29 02:16:45,175 - ERROR - OCR processing error for UUID 304c2abc-ef00-483c-8baf-8dbede6dba68_1732846605: cannot identify image file <_io.BytesIO object at 0x7f65296bf010>
+2024-11-29 02:16:45,179 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f65296be750>
+2024-11-29 02:16:45,179 - ERROR - OCR processing error for UUID 9166fcdd-2d25-448f-a491-0659b60261a9_1732846605: cannot identify image file <_io.BytesIO object at 0x7f65296be750>
+2024-11-29 02:16:45,184 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f65296beed0>
+2024-11-29 02:16:45,184 - ERROR - OCR processing error for UUID 1b3de4b9-67c6-4204-813e-67febe874c7c_1732846605: cannot identify image file <_io.BytesIO object at 0x7f65296beed0>
+2024-11-29 02:16:45,202 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f65296bd7b0>
+2024-11-29 02:16:45,202 - ERROR - OCR processing error for UUID a902bc50-3f7e-4a97-8bd1-3358a766584a_1732846605: cannot identify image file <_io.BytesIO object at 0x7f65296bd7b0>
+2024-11-29 02:16:45,226 - ERROR - 이미지 처리 중 오류 발생: cannot identify image file <_io.BytesIO object at 0x7f65296be6b0>
+2024-11-29 02:16:45,227 - ERROR - OCR processing error for UUID 9dfd1f64-3cec-40c4-b799-10ad761b3b76_1732846605: cannot identify image file <_io.BytesIO object at 0x7f65296be6b0>
+2024-11-29 02:16:45,250 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,250 - ERROR - OCR processing error for UUID 782aa634-949e-4a01-b554-02e53e478b23_1732846605: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,272 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,272 - ERROR - OCR processing error for UUID 3f746d8b-8136-4419-92a4-3fb0ccb2697c_1732846605: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,300 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,300 - ERROR - OCR processing error for UUID b1feddd7-a6b5-4f8c-9057-e4a63d9031cc_1732846605: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,326 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,326 - ERROR - OCR processing error for UUID 1b330b9d-4be4-4a1b-96e4-f8d75b8fb9bb_1732846605: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,340 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,340 - ERROR - OCR processing error for UUID 88bf6063-df7f-45aa-b011-8cdbf1fea774_1732846605: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,366 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,366 - ERROR - OCR processing error for UUID 0828cb50-fd6c-4bb1-a4e3-516bac1977d4_1732846605: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,394 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,394 - ERROR - OCR processing error for UUID 232736be-8230-4a71-94b3-7c72be7196fe_1732846605: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,427 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,428 - ERROR - OCR processing error for UUID 5fbf5335-2a12-4095-bffa-428a1e50dea1_1732846605: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,464 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,464 - ERROR - OCR processing error for UUID d37a0c4c-b4ba-44ca-bdd1-660455ed0caf_1732846605: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,477 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,477 - ERROR - OCR processing error for UUID f2217ac9-c541-4de4-a048-740d708fbb92_1732846605: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,513 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,513 - ERROR - OCR processing error for UUID ae3546ed-8103-4278-8085-2a22ae3963f0_1732846605: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,538 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,538 - ERROR - OCR processing error for UUID e06e6d74-d627-45e8-8b16-d962d75c378c_1732846605: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,559 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,559 - ERROR - OCR processing error for UUID a1df1753-d8ea-4119-b70a-96a5a58cbde5_1732846605: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,595 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,595 - ERROR - OCR processing error for UUID 98adf2f1-c5e2-4f44-8ba5-a4f55ac87b61_1732846605: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,624 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,624 - ERROR - OCR processing error for UUID 86b4acaf-00c8-4200-bf38-e9a6cd10274b_1732846605: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,635 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,635 - ERROR - OCR processing error for UUID 1be84105-27ae-41f4-b2f7-385103316f7c_1732846605: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,818 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,818 - ERROR - OCR processing error for UUID fb7d7a38-632d-4377-bb66-d654d2fad48b_1732846605: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,861 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,861 - ERROR - OCR processing error for UUID 9c56b200-0512-4bf6-8260-fb0a0ef0b014_1732846605: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:45,927 - ERROR - 이미지 처리 중 오류 발생: Image size (232875136 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack.
+2024-11-29 02:16:45,928 - ERROR - OCR processing error for UUID 2c47360e-26bd-408d-8aa2-4c0cc6c88d67_1732846605: Image size (232875136 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack.
+2024-11-29 02:16:46,086 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:46,087 - ERROR - OCR processing error for UUID eacdb71f-e16b-4fd3-b3c2-ee21ebe0dc0f_1732846605: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:46,183 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:46,183 - ERROR - OCR processing error for UUID a18ec90e-3968-44d8-ba4f-80c917d4c279_1732846606: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:46,289 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:46,289 - ERROR - OCR processing error for UUID f1d152d7-d9e2-43cb-b7fb-cf3701c65adf_1732846606: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:46,365 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:46,365 - ERROR - OCR processing error for UUID b47e733a-fdd8-4410-acd8-50146826e2fb_1732846606: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:46,458 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:46,458 - ERROR - OCR processing error for UUID 90d663ae-0151-45ff-8c83-9276a564668f_1732846606: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:46,540 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:46,540 - ERROR - OCR processing error for UUID 0e0dccb9-bb7c-4113-afaa-4582179356ac_1732846606: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:46,645 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:46,645 - ERROR - OCR processing error for UUID 5e19b02f-c06a-4f42-b585-9e02d73c38a2_1732846606: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:46,754 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:46,754 - ERROR - OCR processing error for UUID 34d5776b-dfcf-43db-a510-c60778dc2665_1732846606: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:46,840 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:46,840 - ERROR - OCR processing error for UUID 1cc68df6-62bc-479c-98fa-da9b0d67c5ea_1732846606: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:46,941 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:46,942 - ERROR - OCR processing error for UUID 94c0e6e1-c2d3-4731-9da8-7d41b4077e9f_1732846606: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:47,021 - ERROR - 이미지 처리 중 오류 발생: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 02:16:47,021 - ERROR - OCR processing error for UUID 90d3d995-fcfb-4877-9324-48bc86c66cd7_1732846606: '>' not supported between instances of 'int' and 'NoneType'
+2024-11-29 05:19:51,441 - INFO - Successfully initialized all OCR readers with local models
+2024-11-29 05:34:29,049 - ERROR - OCR processing error for UUID 6f711055-4f71-48a2-a9ed-1f67d5b6db27_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92ce850400>
+2024-11-29 05:34:29,056 - ERROR - OCR processing error for UUID 21fa3ebb-879f-4024-a782-4dd1aab01d7f_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92ce814400>
+2024-11-29 05:34:29,063 - ERROR - OCR processing error for UUID 416b6ed8-976f-4abe-bb5c-e4753f773790_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc21abb0>
+2024-11-29 05:34:29,068 - ERROR - OCR processing error for UUID 5d012db6-ad91-4a90-9e6f-588b81fe741d_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92ce84f3d0>
+2024-11-29 05:34:29,073 - ERROR - OCR processing error for UUID d734d125-8d17-48a3-9ef0-85d5705f4c6d_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92ce814400>
+2024-11-29 05:34:29,977 - ERROR - OCR processing error for UUID 556cb3e1-cc04-4c79-ad64-56fb314aca0b_1732858443: Image processing error: Too much memory used in text chunks: 70740144>MAX_TEXT_MEMORY
+2024-11-29 05:34:30,304 - ERROR - OCR processing error for UUID de393faa-0162-4d6b-8d3b-9fa2b1b8fd74_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc1fd030>
+2024-11-29 05:34:30,311 - ERROR - OCR processing error for UUID 86a7734c-4b37-465a-8b50-869d8e150d54_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc1fd030>
+2024-11-29 05:34:30,316 - ERROR - OCR processing error for UUID 608181f8-c31c-475b-a0ee-e0026b4acaf8_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc1fd030>
+2024-11-29 05:34:30,320 - ERROR - OCR processing error for UUID 11718782-4aa1-4681-ac43-79ead51d5f48_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc1fd030>
+2024-11-29 05:34:30,325 - ERROR - OCR processing error for UUID 8b9791c2-f8ae-4955-863e-ee48b1347c7e_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc1fd030>
+2024-11-29 05:34:30,329 - ERROR - OCR processing error for UUID ba639c65-a79c-42f7-a64f-698ecd68c157_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc1fd030>
+2024-11-29 05:34:30,333 - ERROR - OCR processing error for UUID d1c0ebeb-3d99-4542-89d6-91bcee82bf42_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc1fd030>
+2024-11-29 05:34:30,338 - ERROR - OCR processing error for UUID e2a396f1-319a-4251-9704-f3e02e46bc23_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc1fd030>
+2024-11-29 05:34:30,342 - ERROR - OCR processing error for UUID dfe587eb-14b9-41a9-b2f8-9c73e16896b7_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc1fd030>
+2024-11-29 05:34:30,346 - ERROR - OCR processing error for UUID c283baf0-e329-4483-8798-3b6777d30c70_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc1fd030>
+2024-11-29 05:34:30,351 - ERROR - OCR processing error for UUID 579e9385-69a9-45d0-b9ec-1223c31327e6_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc1fd030>
+2024-11-29 05:34:30,355 - ERROR - OCR processing error for UUID ce385148-8122-442b-bf8f-6b985ce88516_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc1ed300>
+2024-11-29 05:34:31,663 - ERROR - OCR processing error for UUID 2d10b0c4-9285-434c-8db2-93ef53d2bf4a_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc20b060>
+2024-11-29 05:34:31,669 - ERROR - OCR processing error for UUID ab90d65a-5415-42d2-9a14-a30941be7cff_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc20b060>
+2024-11-29 05:34:31,674 - ERROR - OCR processing error for UUID 30e4939d-f9fc-45e0-b6b8-7c2f3fe6aa2c_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc20b060>
+2024-11-29 05:34:31,678 - ERROR - OCR processing error for UUID 001d08ee-da41-4b03-81a6-9d74fe825a12_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc20b060>
+2024-11-29 05:34:31,682 - ERROR - OCR processing error for UUID f603fabb-f0ad-4430-bfc2-25254fcca0c3_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc20b060>
+2024-11-29 05:34:31,687 - ERROR - OCR processing error for UUID 8dd0ce15-a53f-4bb8-82bf-a3bd23456aa9_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc20b060>
+2024-11-29 05:34:31,691 - ERROR - OCR processing error for UUID 3715403f-e577-44ca-a73b-91071f6098e5_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc20b060>
+2024-11-29 05:34:31,695 - ERROR - OCR processing error for UUID e83b9949-2a98-42e9-885c-b7bd5b87be8e_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc20b060>
+2024-11-29 05:34:31,700 - ERROR - OCR processing error for UUID 1133c72f-9839-45c7-8d08-b3a8d5a03e09_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc20b060>
+2024-11-29 05:34:31,704 - ERROR - OCR processing error for UUID fff5b437-4e51-479c-9181-98c82229ac2f_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc20b060>
+2024-11-29 05:34:31,708 - ERROR - OCR processing error for UUID 71009046-9162-4d29-b330-34fe6582d941_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc20b060>
+2024-11-29 05:34:31,713 - ERROR - OCR processing error for UUID 6e104064-f140-4076-814f-9da2d08b3286_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc20b060>
+2024-11-29 05:34:31,717 - ERROR - OCR processing error for UUID e474fd16-d0e1-4191-8388-f99079315d4a_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc20b060>
+2024-11-29 05:34:31,722 - ERROR - OCR processing error for UUID 46c37c5d-0f87-4f56-b8f2-238a87ca5c73_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc20b060>
+2024-11-29 05:34:31,726 - ERROR - OCR processing error for UUID b16dd724-43c6-4050-b533-f489137860ce_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc20b060>
+2024-11-29 05:34:31,731 - ERROR - OCR processing error for UUID 4614f2de-3c5c-47ef-9ab7-8db3a7c97538_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc20b060>
+2024-11-29 05:34:38,303 - ERROR - OCR processing error for UUID a3f4155c-d051-4ebf-aac4-993b690da231_1732858443: Image processing error: Image size (232875136 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack.
+2024-11-29 05:34:54,720 - ERROR - OCR processing error for UUID 6dbd1e68-67db-411e-b2c5-340df9bc2d3d_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92ce850400>
+2024-11-29 05:34:54,726 - ERROR - OCR processing error for UUID cbc2a6ad-73f9-4335-8225-4639aa6a52ff_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc0ccb30>
+2024-11-29 05:34:54,732 - ERROR - OCR processing error for UUID ea3a3ec2-2dec-490f-9815-ea40f2982f6f_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc0cc4f0>
+2024-11-29 05:34:54,737 - ERROR - OCR processing error for UUID 46ec8a4e-6d06-4df9-8644-66698b827661_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc0ccb30>
+2024-11-29 05:34:54,741 - ERROR - OCR processing error for UUID e04beaf6-dc8e-4e11-938e-870d39a879a8_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc0cc4f0>
+2024-11-29 05:34:54,746 - ERROR - OCR processing error for UUID 5976fa99-9b8c-44d8-8cbd-1d807fd3a55e_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc0ccb30>
+2024-11-29 05:34:54,750 - ERROR - OCR processing error for UUID 58cbd9f4-660b-45c0-91dc-95974a084a8c_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc0cc4f0>
+2024-11-29 05:34:54,755 - ERROR - OCR processing error for UUID 0aca1795-7061-4749-b177-554cefbdbc8b_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc0ccb30>
+2024-11-29 05:34:54,759 - ERROR - OCR processing error for UUID af6eb7c9-6df3-4a77-bd86-effe42350dbf_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc0cc4f0>
+2024-11-29 05:34:54,764 - ERROR - OCR processing error for UUID e1c2c83c-380b-406c-80c3-018683ebbb19_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc0ccb30>
+2024-11-29 05:34:54,768 - ERROR - OCR processing error for UUID 7f184723-4192-4715-809b-74e1dcca09b4_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc0cc4f0>
+2024-11-29 05:34:54,772 - ERROR - OCR processing error for UUID ec55da92-d734-4fb3-8ec7-3d15327c2b95_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc0ccb30>
+2024-11-29 05:34:54,777 - ERROR - OCR processing error for UUID fe3f7f0e-906b-4500-ae92-2c2027d9c766_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc0cc4f0>
+2024-11-29 05:34:54,781 - ERROR - OCR processing error for UUID 622b3672-9740-464f-8288-5e0978e495d9_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc0ccb30>
+2024-11-29 05:34:54,786 - ERROR - OCR processing error for UUID f1747951-f6aa-4b85-bb6f-c21db2482ee5_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc0cc4f0>
+2024-11-29 05:34:54,790 - ERROR - OCR processing error for UUID 6b53ec7d-eb51-4eed-a2a9-5e19196a129e_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc0ccb30>
+2024-11-29 05:34:54,794 - ERROR - OCR processing error for UUID 3813ef11-e611-4bce-869b-5a6380062524_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc0cc4f0>
+2024-11-29 05:34:54,799 - ERROR - OCR processing error for UUID e40c831a-6fa2-4e32-b5d8-94d946783a85_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc0ccb30>
+2024-11-29 05:34:54,803 - ERROR - OCR processing error for UUID 21c091aa-24dd-412a-8dc1-0ab8f1bed033_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc0cc4f0>
+2024-11-29 05:34:54,808 - ERROR - OCR processing error for UUID 15aac2dd-f595-4e62-b73a-0cd3b9ce8365_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc0ccb30>
+2024-11-29 05:34:54,812 - ERROR - OCR processing error for UUID beae6584-2cac-4ab6-9a7b-828c843cb79d_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc0cc4f0>
+2024-11-29 05:34:54,816 - ERROR - OCR processing error for UUID 02dba577-dc94-4add-a488-eec1e5dba081_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc0ccb30>
+2024-11-29 05:34:54,820 - ERROR - OCR processing error for UUID b95ce986-bc42-48bb-b18c-a5d573928b26_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc0cc4f0>
+2024-11-29 05:35:58,255 - ERROR - OCR processing error for UUID 63392c25-fdfd-445f-87cb-38a7a4d7073b_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc20ad40>
+2024-11-29 05:35:58,262 - ERROR - OCR processing error for UUID 0033da5d-c248-4c0e-959a-bc436425412f_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc0cf970>
+2024-11-29 05:35:58,267 - ERROR - OCR processing error for UUID b116e498-49f0-4760-bc86-17efc03c9954_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc219440>
+2024-11-29 05:35:58,271 - ERROR - OCR processing error for UUID 2801d529-9c59-4434-a43a-3dcc34b4ebdf_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc2139c0>
+2024-11-29 05:35:58,276 - ERROR - OCR processing error for UUID 73c9cd02-6211-47ea-87da-2d2eb679c553_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc1ff0b0>
+2024-11-29 05:35:58,280 - ERROR - OCR processing error for UUID 61f2efff-333c-43e2-a318-285d0d62ac04_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92ce870130>
+2024-11-29 05:35:58,284 - ERROR - OCR processing error for UUID ab00af4e-6e2b-4813-a84a-39d832ba415c_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc20ad40>
+2024-11-29 05:35:58,289 - ERROR - OCR processing error for UUID d597549d-8a21-49a3-8b96-53e72c114983_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc0cf970>
+2024-11-29 05:35:58,293 - ERROR - OCR processing error for UUID e01869d4-ff48-41e7-8587-902a4609820a_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc219440>
+2024-11-29 05:35:58,298 - ERROR - OCR processing error for UUID e4e83591-a53d-41a4-aa87-4f8c3eb485c6_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc2139c0>
+2024-11-29 05:35:58,302 - ERROR - OCR processing error for UUID fafbc17f-492f-413b-8eea-198ee224fb58_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc1ff0b0>
+2024-11-29 05:35:58,307 - ERROR - OCR processing error for UUID 1ef6ee8f-9da5-4557-ba92-ac4e36a578e0_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92ce870130>
+2024-11-29 05:35:58,311 - ERROR - OCR processing error for UUID 1ecf5c8c-12d4-42a6-a62a-c4a5464f521b_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc20ad40>
+2024-11-29 05:35:58,315 - ERROR - OCR processing error for UUID a66500dd-5b77-4c57-a269-4b42a98e597c_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc0cf970>
+2024-11-29 05:35:58,319 - ERROR - OCR processing error for UUID 129b7e26-bb7d-4f01-bfbe-29722b397907_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc219440>
+2024-11-29 05:35:58,324 - ERROR - OCR processing error for UUID 5e825389-3741-424c-80ba-acd97be98b4b_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc2139c0>
+2024-11-29 05:35:58,328 - ERROR - OCR processing error for UUID c9d8f467-590a-48f2-9ec8-fa9756a11363_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc1ff0b0>
+2024-11-29 05:35:58,333 - ERROR - OCR processing error for UUID cc43e3f1-ac0d-4286-bf15-c82ed3882dbc_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92ce870130>
+2024-11-29 05:35:58,337 - ERROR - OCR processing error for UUID aa6cff89-4e26-4cba-8960-c842ca542fc9_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc20ad40>
+2024-11-29 05:35:58,341 - ERROR - OCR processing error for UUID a59de47e-1654-41a1-9cfc-9a805af99da4_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc0cf970>
+2024-11-29 05:35:58,346 - ERROR - OCR processing error for UUID 57b2e8b9-0ff1-4c7c-aa4e-20b11c07da1f_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc219440>
+2024-11-29 05:35:58,350 - ERROR - OCR processing error for UUID 134b62b7-30da-460b-a74b-5d124d7ee9fa_1732858443: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc2139c0>
+2024-11-29 05:35:58,354 - ERROR - OCR processing error for UUID eaa2daa1-d20c-49e2-a8d2-71c0fea26abe_1732858444: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc1ff0b0>
+2024-11-29 05:35:58,359 - ERROR - OCR processing error for UUID b8912789-8b64-42c8-bf6e-22e4f9e9314d_1732858444: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92ce870130>
+2024-11-29 05:35:58,363 - ERROR - OCR processing error for UUID 504f278d-9171-4d0b-8b58-52a7ae749526_1732858444: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc20ad40>
+2024-11-29 05:35:58,368 - ERROR - OCR processing error for UUID 73760d3b-8f10-472e-816e-950d86895c69_1732858444: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc0cf970>
+2024-11-29 05:35:58,372 - ERROR - OCR processing error for UUID 21db53e4-135b-424c-aab4-cff1f0eea0d2_1732858444: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc0d4e00>
+2024-11-29 05:35:58,377 - ERROR - OCR processing error for UUID d1bc9b58-7a38-409b-9a1a-67432bf6ad14_1732858444: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc0d6750>
+2024-11-29 05:35:58,381 - ERROR - OCR processing error for UUID 534c5d8e-7953-408d-820b-a2d3de24f2c4_1732858444: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc0d4450>
+2024-11-29 05:35:58,385 - ERROR - OCR processing error for UUID e0fcafc5-05d0-446a-bcaa-f8e36d808e59_1732858444: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc0d6de0>
+2024-11-29 05:35:58,390 - ERROR - OCR processing error for UUID 473a47b6-cd01-4c1f-9bf9-15a99186ad1f_1732858444: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc0d75b0>
+2024-11-29 05:35:58,394 - ERROR - OCR processing error for UUID f80b531a-25e3-44b3-a0b1-7efa9de0fbee_1732858444: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc0d6750>
+2024-11-29 05:35:58,398 - ERROR - OCR processing error for UUID 412b7514-2f90-4663-ad67-7aaa9acb2981_1732858444: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc0cf970>
+2024-11-29 05:35:58,403 - ERROR - OCR processing error for UUID 4e16e092-4ba2-4c43-a593-e96a314b673f_1732858444: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc0d4450>
+2024-11-29 05:35:58,407 - ERROR - OCR processing error for UUID 4341207e-5492-45bd-a3b7-80f1fb6a98ba_1732858444: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc0d41d0>
+2024-11-29 05:35:58,411 - ERROR - OCR processing error for UUID 93cf05ec-2168-4dd9-8629-5f1b590fd17e_1732858444: Image processing error: cannot identify image file <_io.BytesIO object at 0x7f92cc0d4e00>
+2024-11-29 05:56:31,096 - INFO - Successfully initialized all OCR readers with local models
+2024-11-29 06:04:24,432 - ERROR - Image processing error for UUID 52320f16-68fe-495b-ae16-98688331122a_1732860242: Invalid image format
+2024-11-29 06:04:24,433 - ERROR - OCR processing error for UUID 52320f16-68fe-495b-ae16-98688331122a_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:24,455 - ERROR - Image processing error for UUID 9deb2253-0988-40e5-aacd-c57eed29466c_1732860242: Invalid image format
+2024-11-29 06:04:24,455 - ERROR - OCR processing error for UUID 9deb2253-0988-40e5-aacd-c57eed29466c_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:24,514 - WARNING - No text detected in image for UUID 44a49e98-1ace-40ba-8ef5-01184471c6a1_1732860242
+2024-11-29 06:04:24,574 - WARNING - No text detected in image for UUID 2f8597d2-003f-438f-b4b5-3ef67d9f32b6_1732860242
+2024-11-29 06:04:24,636 - WARNING - No text detected in image for UUID e790717d-bed5-4ffe-b20e-958944db029d_1732860242
+2024-11-29 06:04:27,735 - ERROR - Image processing error for UUID 7a6cd85e-0db0-44ae-8c27-6e3e6a83326e_1732860242: Invalid image format
+2024-11-29 06:04:27,735 - ERROR - OCR processing error for UUID 7a6cd85e-0db0-44ae-8c27-6e3e6a83326e_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:27,742 - ERROR - Image processing error for UUID d5a8705a-59de-494d-b9dc-52069c7397bf_1732860242: Invalid image format
+2024-11-29 06:04:27,742 - ERROR - OCR processing error for UUID d5a8705a-59de-494d-b9dc-52069c7397bf_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:27,746 - ERROR - Image processing error for UUID c71847e9-576a-4034-a019-8ab87825e160_1732860242: Invalid image format
+2024-11-29 06:04:27,746 - ERROR - OCR processing error for UUID c71847e9-576a-4034-a019-8ab87825e160_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:27,751 - ERROR - Image processing error for UUID 75ed2a6d-71f1-4724-b3d0-92a23ed04d3d_1732860242: Invalid image format
+2024-11-29 06:04:27,751 - ERROR - OCR processing error for UUID 75ed2a6d-71f1-4724-b3d0-92a23ed04d3d_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:27,755 - ERROR - Image processing error for UUID a7f9ea7b-e9a9-4fa4-9201-69ee8e9d472d_1732860242: Invalid image format
+2024-11-29 06:04:27,755 - ERROR - OCR processing error for UUID a7f9ea7b-e9a9-4fa4-9201-69ee8e9d472d_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:27,807 - WARNING - No text detected in image for UUID 1fe59afb-e74b-4d11-9828-6c8d23604b7d_1732860242
+2024-11-29 06:04:28,672 - ERROR - Image processing error for UUID 9dbf64bb-eb4b-4a14-9fb2-54460ecb677a_1732860242: Too much memory used in text chunks: 70740144>MAX_TEXT_MEMORY
+2024-11-29 06:04:28,672 - ERROR - OCR processing error for UUID 9dbf64bb-eb4b-4a14-9fb2-54460ecb677a_1732860242: Image processing error: Too much memory used in text chunks: 70740144>MAX_TEXT_MEMORY
+2024-11-29 06:04:28,746 - WARNING - No text detected in image for UUID ecf04155-73d7-492d-9d83-c77e4af9e41b_1732860242
+2024-11-29 06:04:28,776 - WARNING - No text detected in image for UUID 50a07a60-6090-4834-85e9-39a6d4a4142f_1732860242
+2024-11-29 06:04:28,825 - WARNING - No text detected in image for UUID 5d7aa586-87b2-4b22-9d1d-a23699e9988f_1732860242
+2024-11-29 06:04:28,873 - WARNING - No text detected in image for UUID 737b1f80-1837-4b0e-a878-870c576e87e6_1732860242
+2024-11-29 06:04:28,894 - WARNING - No text detected in image for UUID 2408d6da-1e98-48f1-b2fe-f41c9e089876_1732860242
+2024-11-29 06:04:28,913 - WARNING - No text detected in image for UUID 580c75fb-d183-456c-9222-efa6dd94592d_1732860242
+2024-11-29 06:04:28,934 - WARNING - No text detected in image for UUID c9474856-286e-4e6b-bad7-9a107acf304d_1732860242
+2024-11-29 06:04:28,980 - WARNING - No text detected in image for UUID e258585b-9da2-4c2b-87e0-c5c670a713d9_1732860242
+2024-11-29 06:04:28,987 - ERROR - Image processing error for UUID bda65160-e732-411c-a7c4-2b082c4fdc50_1732860242: Invalid image format
+2024-11-29 06:04:28,987 - ERROR - OCR processing error for UUID bda65160-e732-411c-a7c4-2b082c4fdc50_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:28,993 - ERROR - Image processing error for UUID 1615593f-8a38-45d9-b397-1a2ffd6c34e5_1732860242: Invalid image format
+2024-11-29 06:04:28,993 - ERROR - OCR processing error for UUID 1615593f-8a38-45d9-b397-1a2ffd6c34e5_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:28,998 - ERROR - Image processing error for UUID 2c1ac1e1-eac2-45a2-8486-ca3713d7a641_1732860242: Invalid image format
+2024-11-29 06:04:28,998 - ERROR - OCR processing error for UUID 2c1ac1e1-eac2-45a2-8486-ca3713d7a641_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:29,002 - ERROR - Image processing error for UUID 4bf12fb5-b57f-46e1-987e-4ae52f4b65a6_1732860242: Invalid image format
+2024-11-29 06:04:29,002 - ERROR - OCR processing error for UUID 4bf12fb5-b57f-46e1-987e-4ae52f4b65a6_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:29,006 - ERROR - Image processing error for UUID da490318-9f39-45e9-a733-fda981dc5969_1732860242: Invalid image format
+2024-11-29 06:04:29,006 - ERROR - OCR processing error for UUID da490318-9f39-45e9-a733-fda981dc5969_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:29,010 - ERROR - Image processing error for UUID e1f32b8b-79d7-4d8c-bc45-11db39c8d21d_1732860242: Invalid image format
+2024-11-29 06:04:29,010 - ERROR - OCR processing error for UUID e1f32b8b-79d7-4d8c-bc45-11db39c8d21d_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:29,014 - ERROR - Image processing error for UUID a1fd28ad-4390-4f99-b8da-67a7ad744137_1732860242: Invalid image format
+2024-11-29 06:04:29,014 - ERROR - OCR processing error for UUID a1fd28ad-4390-4f99-b8da-67a7ad744137_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:29,018 - ERROR - Image processing error for UUID e01d153d-fd38-4286-a67a-e6578da9abb0_1732860242: Invalid image format
+2024-11-29 06:04:29,018 - ERROR - OCR processing error for UUID e01d153d-fd38-4286-a67a-e6578da9abb0_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:29,022 - ERROR - Image processing error for UUID 5bb702c9-efdd-4047-ae54-f8c8d3f7f2e6_1732860242: Invalid image format
+2024-11-29 06:04:29,022 - ERROR - OCR processing error for UUID 5bb702c9-efdd-4047-ae54-f8c8d3f7f2e6_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:29,026 - ERROR - Image processing error for UUID 752b5156-9496-43e4-abbc-19042e20c54c_1732860242: Invalid image format
+2024-11-29 06:04:29,026 - ERROR - OCR processing error for UUID 752b5156-9496-43e4-abbc-19042e20c54c_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:29,030 - ERROR - Image processing error for UUID fb5a9649-41d9-4a44-a659-866d4fe5c97d_1732860242: Invalid image format
+2024-11-29 06:04:29,030 - ERROR - OCR processing error for UUID fb5a9649-41d9-4a44-a659-866d4fe5c97d_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:29,034 - ERROR - Image processing error for UUID d5165640-6d9b-4943-aa1d-95b3ada7cc7d_1732860242: Invalid image format
+2024-11-29 06:04:29,034 - ERROR - OCR processing error for UUID d5165640-6d9b-4943-aa1d-95b3ada7cc7d_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:30,368 - ERROR - Image processing error for UUID 251362f3-55f7-40b3-aa11-cd1365df2045_1732860242: Invalid image format
+2024-11-29 06:04:30,368 - ERROR - OCR processing error for UUID 251362f3-55f7-40b3-aa11-cd1365df2045_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:30,375 - ERROR - Image processing error for UUID 889e1632-6377-4d3b-b443-92a391d10cf7_1732860242: Invalid image format
+2024-11-29 06:04:30,375 - ERROR - OCR processing error for UUID 889e1632-6377-4d3b-b443-92a391d10cf7_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:30,381 - ERROR - Image processing error for UUID e5d8c778-e914-4a07-b06d-fdc5eae5107a_1732860242: Invalid image format
+2024-11-29 06:04:30,381 - ERROR - OCR processing error for UUID e5d8c778-e914-4a07-b06d-fdc5eae5107a_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:30,385 - ERROR - Image processing error for UUID 436dd98e-50da-4017-9b32-4ddbba038b87_1732860242: Invalid image format
+2024-11-29 06:04:30,385 - ERROR - OCR processing error for UUID 436dd98e-50da-4017-9b32-4ddbba038b87_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:30,389 - ERROR - Image processing error for UUID bfa2aab5-1482-4db7-a449-df769cddcef1_1732860242: Invalid image format
+2024-11-29 06:04:30,389 - ERROR - OCR processing error for UUID bfa2aab5-1482-4db7-a449-df769cddcef1_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:30,393 - ERROR - Image processing error for UUID 03dd0bdb-f1b6-496c-af42-d9a55204f084_1732860242: Invalid image format
+2024-11-29 06:04:30,393 - ERROR - OCR processing error for UUID 03dd0bdb-f1b6-496c-af42-d9a55204f084_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:30,397 - ERROR - Image processing error for UUID 1f927b9b-cac9-4f32-be26-ee6a99d1a8f6_1732860242: Invalid image format
+2024-11-29 06:04:30,397 - ERROR - OCR processing error for UUID 1f927b9b-cac9-4f32-be26-ee6a99d1a8f6_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:30,401 - ERROR - Image processing error for UUID 6411c0cd-7747-4cca-9d0c-3e125e3eaecb_1732860242: Invalid image format
+2024-11-29 06:04:30,402 - ERROR - OCR processing error for UUID 6411c0cd-7747-4cca-9d0c-3e125e3eaecb_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:30,406 - ERROR - Image processing error for UUID 0d542689-510a-4128-b9b4-953aa73a8b92_1732860242: Invalid image format
+2024-11-29 06:04:30,406 - ERROR - OCR processing error for UUID 0d542689-510a-4128-b9b4-953aa73a8b92_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:30,410 - ERROR - Image processing error for UUID 6fc56329-0a9e-4ece-a17b-edd3cbc0b06c_1732860242: Invalid image format
+2024-11-29 06:04:30,410 - ERROR - OCR processing error for UUID 6fc56329-0a9e-4ece-a17b-edd3cbc0b06c_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:30,414 - ERROR - Image processing error for UUID 2434eccf-2437-4e5c-8498-5c745dd7c44d_1732860242: Invalid image format
+2024-11-29 06:04:30,414 - ERROR - OCR processing error for UUID 2434eccf-2437-4e5c-8498-5c745dd7c44d_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:30,418 - ERROR - Image processing error for UUID 39df72fc-435f-4555-b959-ad58b6357254_1732860242: Invalid image format
+2024-11-29 06:04:30,418 - ERROR - OCR processing error for UUID 39df72fc-435f-4555-b959-ad58b6357254_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:30,422 - ERROR - Image processing error for UUID 87668207-bfa0-4c5b-981d-b77a6a5f8483_1732860242: Invalid image format
+2024-11-29 06:04:30,422 - ERROR - OCR processing error for UUID 87668207-bfa0-4c5b-981d-b77a6a5f8483_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:30,426 - ERROR - Image processing error for UUID a1de4331-7a58-4eb9-a695-f4efa03b9b25_1732860242: Invalid image format
+2024-11-29 06:04:30,426 - ERROR - OCR processing error for UUID a1de4331-7a58-4eb9-a695-f4efa03b9b25_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:30,430 - ERROR - Image processing error for UUID ac60f589-bc9d-44f3-b3e2-91239351cb73_1732860242: Invalid image format
+2024-11-29 06:04:30,430 - ERROR - OCR processing error for UUID ac60f589-bc9d-44f3-b3e2-91239351cb73_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:30,435 - ERROR - Image processing error for UUID 97804f74-676e-4f09-91f3-55e4b327e919_1732860242: Invalid image format
+2024-11-29 06:04:30,435 - ERROR - OCR processing error for UUID 97804f74-676e-4f09-91f3-55e4b327e919_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:30,453 - ERROR - Image processing error for UUID bb771dd3-f36e-4c58-8c1f-514c00889405_1732860242: Invalid image format
+2024-11-29 06:04:30,453 - ERROR - OCR processing error for UUID bb771dd3-f36e-4c58-8c1f-514c00889405_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:30,477 - ERROR - Image processing error for UUID e01277cc-8b5d-474d-8da3-6e198b241a37_1732860242: Invalid image format
+2024-11-29 06:04:30,477 - ERROR - OCR processing error for UUID e01277cc-8b5d-474d-8da3-6e198b241a37_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:31,047 - WARNING - No text detected in image for UUID 3f732518-3951-45ba-bb64-b4714abea318_1732860242
+2024-11-29 06:04:37,054 - ERROR - Image processing error for UUID 0055ba7c-aceb-40c9-974f-e6200b1877e7_1732860242: Image size (232875136 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack.
+2024-11-29 06:04:37,054 - ERROR - OCR processing error for UUID 0055ba7c-aceb-40c9-974f-e6200b1877e7_1732860242: Image processing error: Image size (232875136 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack.
+2024-11-29 06:04:53,482 - ERROR - Image processing error for UUID 58d7b2e9-5151-41f3-863d-a4daa54fdea8_1732860242: Invalid image format
+2024-11-29 06:04:53,482 - ERROR - OCR processing error for UUID 58d7b2e9-5151-41f3-863d-a4daa54fdea8_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:53,488 - ERROR - Image processing error for UUID 7517393b-917b-45de-8b8f-7a88db3a5ed8_1732860242: Invalid image format
+2024-11-29 06:04:53,488 - ERROR - OCR processing error for UUID 7517393b-917b-45de-8b8f-7a88db3a5ed8_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:53,493 - ERROR - Image processing error for UUID 9e8a772b-1988-4997-94fc-7e159fb3bf69_1732860242: Invalid image format
+2024-11-29 06:04:53,493 - ERROR - OCR processing error for UUID 9e8a772b-1988-4997-94fc-7e159fb3bf69_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:53,497 - ERROR - Image processing error for UUID 50736ad7-7ea8-4080-bb83-06f4cc124f08_1732860242: Invalid image format
+2024-11-29 06:04:53,497 - ERROR - OCR processing error for UUID 50736ad7-7ea8-4080-bb83-06f4cc124f08_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:53,501 - ERROR - Image processing error for UUID 2774d9c6-aac2-4cfe-83b6-b0f75e219075_1732860242: Invalid image format
+2024-11-29 06:04:53,501 - ERROR - OCR processing error for UUID 2774d9c6-aac2-4cfe-83b6-b0f75e219075_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:53,506 - ERROR - Image processing error for UUID 986daae4-1f51-4004-ab61-082833eb8748_1732860242: Invalid image format
+2024-11-29 06:04:53,506 - ERROR - OCR processing error for UUID 986daae4-1f51-4004-ab61-082833eb8748_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:53,510 - ERROR - Image processing error for UUID 97ff2027-6e7b-40c6-a98a-4b597459f43f_1732860242: Invalid image format
+2024-11-29 06:04:53,510 - ERROR - OCR processing error for UUID 97ff2027-6e7b-40c6-a98a-4b597459f43f_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:53,514 - ERROR - Image processing error for UUID ff6e7b62-4e4c-4beb-9fea-4362fe752073_1732860242: Invalid image format
+2024-11-29 06:04:53,514 - ERROR - OCR processing error for UUID ff6e7b62-4e4c-4beb-9fea-4362fe752073_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:53,518 - ERROR - Image processing error for UUID 6b8a5914-ccee-41f8-88aa-f2cb1b942f04_1732860242: Invalid image format
+2024-11-29 06:04:53,518 - ERROR - OCR processing error for UUID 6b8a5914-ccee-41f8-88aa-f2cb1b942f04_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:53,522 - ERROR - Image processing error for UUID 456eb5ed-28db-4a8f-ba05-5b6d9d20314b_1732860242: Invalid image format
+2024-11-29 06:04:53,522 - ERROR - OCR processing error for UUID 456eb5ed-28db-4a8f-ba05-5b6d9d20314b_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:53,526 - ERROR - Image processing error for UUID c4a55f3a-990b-415e-9e4d-c21422627b3d_1732860242: Invalid image format
+2024-11-29 06:04:53,526 - ERROR - OCR processing error for UUID c4a55f3a-990b-415e-9e4d-c21422627b3d_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:53,530 - ERROR - Image processing error for UUID 3a2898b4-04d2-493a-abf1-1ba2f00455e9_1732860242: Invalid image format
+2024-11-29 06:04:53,531 - ERROR - OCR processing error for UUID 3a2898b4-04d2-493a-abf1-1ba2f00455e9_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:53,535 - ERROR - Image processing error for UUID 3e5d414a-ba1a-416a-9591-2e83b646d492_1732860242: Invalid image format
+2024-11-29 06:04:53,535 - ERROR - OCR processing error for UUID 3e5d414a-ba1a-416a-9591-2e83b646d492_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:53,539 - ERROR - Image processing error for UUID 59aef5d1-46cc-4ecf-acab-9c11d87603e3_1732860242: Invalid image format
+2024-11-29 06:04:53,539 - ERROR - OCR processing error for UUID 59aef5d1-46cc-4ecf-acab-9c11d87603e3_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:53,543 - ERROR - Image processing error for UUID 47cddce2-da82-4619-b782-bf2858680c00_1732860242: Invalid image format
+2024-11-29 06:04:53,543 - ERROR - OCR processing error for UUID 47cddce2-da82-4619-b782-bf2858680c00_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:53,547 - ERROR - Image processing error for UUID 4dfd54cc-c496-45fc-b6f5-ca25c6142a3f_1732860242: Invalid image format
+2024-11-29 06:04:53,547 - ERROR - OCR processing error for UUID 4dfd54cc-c496-45fc-b6f5-ca25c6142a3f_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:53,551 - ERROR - Image processing error for UUID 285fee32-f344-4fa4-9790-8fff6338c58c_1732860242: Invalid image format
+2024-11-29 06:04:53,551 - ERROR - OCR processing error for UUID 285fee32-f344-4fa4-9790-8fff6338c58c_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:53,555 - ERROR - Image processing error for UUID 96e53d1b-6793-42e4-bf5b-3c9b5e882a73_1732860242: Invalid image format
+2024-11-29 06:04:53,555 - ERROR - OCR processing error for UUID 96e53d1b-6793-42e4-bf5b-3c9b5e882a73_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:53,559 - ERROR - Image processing error for UUID 53741df2-9e24-4974-b9d6-35dff0bbfad2_1732860242: Invalid image format
+2024-11-29 06:04:53,560 - ERROR - OCR processing error for UUID 53741df2-9e24-4974-b9d6-35dff0bbfad2_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:53,564 - ERROR - Image processing error for UUID 244b9f61-2113-4368-b0be-412c35c54a18_1732860242: Invalid image format
+2024-11-29 06:04:53,564 - ERROR - OCR processing error for UUID 244b9f61-2113-4368-b0be-412c35c54a18_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:53,568 - ERROR - Image processing error for UUID 2df0d36c-ab9a-4119-8560-49aa05dc0e78_1732860242: Invalid image format
+2024-11-29 06:04:53,568 - ERROR - OCR processing error for UUID 2df0d36c-ab9a-4119-8560-49aa05dc0e78_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:53,572 - ERROR - Image processing error for UUID 32392484-1723-4e18-9f5a-6269d5572545_1732860242: Invalid image format
+2024-11-29 06:04:53,572 - ERROR - OCR processing error for UUID 32392484-1723-4e18-9f5a-6269d5572545_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:53,576 - ERROR - Image processing error for UUID 238e5e85-6e70-48bc-a4c1-a4148ecbaa00_1732860242: Invalid image format
+2024-11-29 06:04:53,576 - ERROR - OCR processing error for UUID 238e5e85-6e70-48bc-a4c1-a4148ecbaa00_1732860242: Image processing error: Invalid image format
+2024-11-29 06:04:53,645 - WARNING - No text detected in image for UUID 9f91ed09-ffe9-4458-b251-66a8de8643f1_1732860242
+2024-11-29 06:04:53,714 - WARNING - No text detected in image for UUID c19420ee-5445-4f05-9c4b-f19c9cd0c6b5_1732860242
+2024-11-29 06:04:53,779 - WARNING - No text detected in image for UUID 3bc4d36d-f21f-4cd6-bb13-0d09e0ead7a5_1732860242
+2024-11-29 06:04:57,589 - WARNING - No text detected in image for UUID c0d49714-ee5a-43be-92bb-9cb09d88be82_1732860242
+2024-11-29 06:04:57,646 - WARNING - No text detected in image for UUID 2f38cbb9-9c8c-4d72-a529-01690013934a_1732860242
+2024-11-29 06:04:57,706 - WARNING - No text detected in image for UUID 45225215-ba40-4d55-996d-368fcb50e46e_1732860242
+2024-11-29 06:04:57,779 - ERROR - Image processing error for UUID 24b57a86-15a5-4101-9ac8-45d894315c4d_1732860242: Unsupported image format: MPO
+2024-11-29 06:04:57,779 - ERROR - OCR processing error for UUID 24b57a86-15a5-4101-9ac8-45d894315c4d_1732860242: Image processing error: Unsupported image format: MPO
+2024-11-29 06:04:57,847 - ERROR - Image processing error for UUID 3f150c59-7b7f-412f-a21a-c3910caaa084_1732860242: Unsupported image format: MPO
+2024-11-29 06:04:57,847 - ERROR - OCR processing error for UUID 3f150c59-7b7f-412f-a21a-c3910caaa084_1732860242: Image processing error: Unsupported image format: MPO
+2024-11-29 06:04:57,917 - ERROR - Image processing error for UUID 7b73edb6-7ea6-406f-a06c-350fbea6364b_1732860242: Unsupported image format: MPO
+2024-11-29 06:04:57,917 - ERROR - OCR processing error for UUID 7b73edb6-7ea6-406f-a06c-350fbea6364b_1732860242: Image processing error: Unsupported image format: MPO
+2024-11-29 06:04:57,993 - ERROR - Image processing error for UUID 6d392765-b8dd-4973-b90d-9431f7a36908_1732860242: Unsupported image format: MPO
+2024-11-29 06:04:57,993 - ERROR - OCR processing error for UUID 6d392765-b8dd-4973-b90d-9431f7a36908_1732860242: Image processing error: Unsupported image format: MPO
+2024-11-29 06:04:58,065 - ERROR - Image processing error for UUID 8133c9dd-1f4e-41f1-bec6-8af1cef88764_1732860242: Unsupported image format: MPO
+2024-11-29 06:04:58,065 - ERROR - OCR processing error for UUID 8133c9dd-1f4e-41f1-bec6-8af1cef88764_1732860242: Image processing error: Unsupported image format: MPO
+2024-11-29 06:04:58,131 - ERROR - Image processing error for UUID 4bacefde-3b40-455c-8d7a-a23fbfbd5093_1732860242: Unsupported image format: MPO
+2024-11-29 06:04:58,131 - ERROR - OCR processing error for UUID 4bacefde-3b40-455c-8d7a-a23fbfbd5093_1732860242: Image processing error: Unsupported image format: MPO
+2024-11-29 06:04:58,203 - ERROR - Image processing error for UUID 9b5eda9a-71da-457e-9bb4-37d5407132fc_1732860242: Unsupported image format: MPO
+2024-11-29 06:04:58,203 - ERROR - OCR processing error for UUID 9b5eda9a-71da-457e-9bb4-37d5407132fc_1732860242: Image processing error: Unsupported image format: MPO
+2024-11-29 06:04:58,274 - WARNING - No text detected in image for UUID cba175c4-4c24-4405-85b3-4bf05a5b4dbf_1732860242
+2024-11-29 06:05:06,324 - ERROR - Image processing error for UUID ce79f533-724d-4554-892a-4f3eed044bb5_1732860242: Invalid image format
+2024-11-29 06:05:06,324 - ERROR - OCR processing error for UUID ce79f533-724d-4554-892a-4f3eed044bb5_1732860242: Image processing error: Invalid image format
+2024-11-29 06:05:10,184 - WARNING - No text detected in image for UUID 435fd285-a04c-460f-9937-4adaa92b0d47_1732860242
+2024-11-29 06:05:10,619 - WARNING - No text detected in image for UUID ca1a7e3a-8784-4868-b524-3525dfbadb14_1732860242
+2024-11-29 06:05:11,090 - WARNING - No text detected in image for UUID c08cf60d-53e4-4ebb-bda0-d4a961b652c9_1732860242
+2024-11-29 06:05:11,531 - WARNING - No text detected in image for UUID 921a693b-59d8-4af5-918d-af75c1362997_1732860242
+2024-11-29 06:05:11,957 - WARNING - No text detected in image for UUID 0a363e29-568a-48d2-95c6-c547d4fe1f87_1732860242
+2024-11-29 06:05:12,402 - WARNING - No text detected in image for UUID df6138c4-26da-4a16-b2a6-6bd8eb759550_1732860242
+2024-11-29 06:05:13,372 - WARNING - No text detected in image for UUID 4876c38b-b6c6-41d6-b3de-a8ff8e33c657_1732860242
+2024-11-29 06:05:15,449 - WARNING - No text detected in image for UUID f9e7a207-38b5-4692-bdad-64b3bd59ac46_1732860242
+2024-11-29 06:05:15,840 - WARNING - No text detected in image for UUID 9ca3f965-5dba-4490-bdf2-fe0242dd88b1_1732860242
+2024-11-29 06:05:16,247 - WARNING - No text detected in image for UUID 63a1d7bf-5910-4b8b-81dd-c37810c8db34_1732860242
+2024-11-29 06:05:16,698 - WARNING - No text detected in image for UUID dddfb04b-3c02-4f51-bb9f-fb40c024cd18_1732860242
+2024-11-29 06:05:17,129 - WARNING - No text detected in image for UUID c3d3237e-ef41-4016-8c4f-e2b1b76a4eca_1732860242
+2024-11-29 06:05:18,007 - WARNING - No text detected in image for UUID 3eb3a907-c56e-4e05-a097-9405d91d5f9f_1732860242
+2024-11-29 06:05:24,173 - WARNING - No text detected in image for UUID 41e2285d-3b2f-47ba-92d8-d44bbf49023a_1732860242
+2024-11-29 06:05:24,607 - WARNING - No text detected in image for UUID 09f6f67d-3234-483e-80c3-c22709e12ade_1732860242
+2024-11-29 06:05:25,055 - WARNING - No text detected in image for UUID eb25dc65-6f33-4411-96b2-8d8d5d26550d_1732860242
+2024-11-29 06:05:25,517 - WARNING - No text detected in image for UUID a960701f-df6c-4338-a505-eca680205678_1732860242
+2024-11-29 06:05:26,857 - WARNING - No text detected in image for UUID b43c535a-b737-45fa-b5e9-fa799cc26f7e_1732860242
+2024-11-29 06:05:33,388 - WARNING - No text detected in image for UUID d33cd095-f5ab-4be1-8607-0920d86a007b_1732860242
+2024-11-29 06:05:33,806 - WARNING - No text detected in image for UUID 40765019-cbbf-4185-9a53-942b780ff51f_1732860242
+2024-11-29 06:05:34,269 - WARNING - No text detected in image for UUID 5880dc4d-6e0b-4941-9c1e-6182152cfb99_1732860242
+2024-11-29 06:05:34,700 - WARNING - No text detected in image for UUID d3cfdaa3-ff3e-48d3-b533-7e751b824816_1732860242
+2024-11-29 06:05:35,164 - WARNING - No text detected in image for UUID d57a2a0f-7215-41c7-8b88-e82f446805aa_1732860242
+2024-11-29 06:05:37,211 - WARNING - No text detected in image for UUID 91ac4ad6-7642-45ea-89e7-e070336a4fd1_1732860242
+2024-11-29 06:05:37,601 - WARNING - No text detected in image for UUID 65de52eb-e98d-4ae8-b240-af32fd47fad2_1732860242
+2024-11-29 06:05:38,001 - WARNING - No text detected in image for UUID 50d43b3d-3d39-40fb-9dc0-50d28d3bf2c5_1732860242
+2024-11-29 06:05:38,441 - WARNING - No text detected in image for UUID f2e65514-8747-44be-9881-c5a85b8400c6_1732860242
+2024-11-29 06:05:38,870 - WARNING - No text detected in image for UUID 1547656d-01f1-4227-a74a-103057a721bc_1732860242
+2024-11-29 06:05:39,739 - WARNING - No text detected in image for UUID 261949df-4597-4cc2-9040-9c8b2d1e491b_1732860242
+2024-11-29 06:05:43,877 - WARNING - No text detected in image for UUID ee41288e-e9fe-4590-b6da-8d2a63466516_1732860242
+2024-11-29 06:05:44,305 - WARNING - No text detected in image for UUID c872457b-a996-4009-97de-6554918a163b_1732860242
+2024-11-29 06:05:44,743 - WARNING - No text detected in image for UUID a0587222-204c-42c7-b9d6-ea419b650851_1732860242
+2024-11-29 06:05:45,203 - WARNING - No text detected in image for UUID 166a6c8c-f29d-49f7-9edf-f30e7a812315_1732860242
+2024-11-29 06:05:46,531 - WARNING - No text detected in image for UUID cf30060b-b3d3-4035-91fc-676caa67ad28_1732860242
+2024-11-29 06:05:51,107 - ERROR - Image processing error for UUID ad57a294-a598-4228-bdd9-16886a3d0dc1_1732860242: Invalid image format
+2024-11-29 06:05:51,108 - ERROR - OCR processing error for UUID ad57a294-a598-4228-bdd9-16886a3d0dc1_1732860242: Image processing error: Invalid image format
+2024-11-29 06:05:51,113 - ERROR - Image processing error for UUID 2aaa7e4c-10f6-4935-9b70-e08134d0e9e6_1732860242: Invalid image format
+2024-11-29 06:05:51,113 - ERROR - OCR processing error for UUID 2aaa7e4c-10f6-4935-9b70-e08134d0e9e6_1732860242: Image processing error: Invalid image format
+2024-11-29 06:05:51,118 - ERROR - Image processing error for UUID 6f0db3f9-8a5d-40b3-ae60-99866d2c51ae_1732860242: Invalid image format
+2024-11-29 06:05:51,118 - ERROR - OCR processing error for UUID 6f0db3f9-8a5d-40b3-ae60-99866d2c51ae_1732860242: Image processing error: Invalid image format
+2024-11-29 06:05:51,123 - ERROR - Image processing error for UUID 01c01606-27e1-430d-9fc3-50fd1c85af26_1732860242: Invalid image format
+2024-11-29 06:05:51,123 - ERROR - OCR processing error for UUID 01c01606-27e1-430d-9fc3-50fd1c85af26_1732860242: Image processing error: Invalid image format
+2024-11-29 06:05:51,127 - ERROR - Image processing error for UUID a77ab222-457b-4bba-98d4-51931bf3366e_1732860242: Invalid image format
+2024-11-29 06:05:51,127 - ERROR - OCR processing error for UUID a77ab222-457b-4bba-98d4-51931bf3366e_1732860242: Image processing error: Invalid image format
+2024-11-29 06:05:51,131 - ERROR - Image processing error for UUID 6604a1e8-b0b4-4ea3-b6d9-43f564bb0244_1732860242: Invalid image format
+2024-11-29 06:05:51,132 - ERROR - OCR processing error for UUID 6604a1e8-b0b4-4ea3-b6d9-43f564bb0244_1732860242: Image processing error: Invalid image format
+2024-11-29 06:05:51,136 - ERROR - Image processing error for UUID d77268e8-e639-429d-bde0-af6dbbd44466_1732860242: Invalid image format
+2024-11-29 06:05:51,136 - ERROR - OCR processing error for UUID d77268e8-e639-429d-bde0-af6dbbd44466_1732860242: Image processing error: Invalid image format
+2024-11-29 06:05:51,140 - ERROR - Image processing error for UUID 5315d879-40c4-49a0-8850-3fac51ec799f_1732860242: Invalid image format
+2024-11-29 06:05:51,140 - ERROR - OCR processing error for UUID 5315d879-40c4-49a0-8850-3fac51ec799f_1732860242: Image processing error: Invalid image format
+2024-11-29 06:05:51,144 - ERROR - Image processing error for UUID e9cc42da-3a11-4822-9009-88624d35ec1e_1732860242: Invalid image format
+2024-11-29 06:05:51,144 - ERROR - OCR processing error for UUID e9cc42da-3a11-4822-9009-88624d35ec1e_1732860242: Image processing error: Invalid image format
+2024-11-29 06:05:51,148 - ERROR - Image processing error for UUID 20e6c5bc-8910-4d69-9f8a-453be3ce395a_1732860242: Invalid image format
+2024-11-29 06:05:51,148 - ERROR - OCR processing error for UUID 20e6c5bc-8910-4d69-9f8a-453be3ce395a_1732860242: Image processing error: Invalid image format
+2024-11-29 06:05:51,153 - ERROR - Image processing error for UUID f8f4b407-11db-48f0-b6a3-bf9f44495475_1732860242: Invalid image format
+2024-11-29 06:05:51,153 - ERROR - OCR processing error for UUID f8f4b407-11db-48f0-b6a3-bf9f44495475_1732860242: Image processing error: Invalid image format
+2024-11-29 06:05:51,157 - ERROR - Image processing error for UUID da9b7e22-93c7-4abc-aacd-59003c77e2f8_1732860242: Invalid image format
+2024-11-29 06:05:51,157 - ERROR - OCR processing error for UUID da9b7e22-93c7-4abc-aacd-59003c77e2f8_1732860242: Image processing error: Invalid image format
+2024-11-29 06:05:51,161 - ERROR - Image processing error for UUID b472119b-8019-4251-a5b1-380f079bda10_1732860242: Invalid image format
+2024-11-29 06:05:51,161 - ERROR - OCR processing error for UUID b472119b-8019-4251-a5b1-380f079bda10_1732860242: Image processing error: Invalid image format
+2024-11-29 06:05:51,165 - ERROR - Image processing error for UUID 733812e2-c7cb-4e7c-9014-772c07ce4103_1732860242: Invalid image format
+2024-11-29 06:05:51,165 - ERROR - OCR processing error for UUID 733812e2-c7cb-4e7c-9014-772c07ce4103_1732860242: Image processing error: Invalid image format
+2024-11-29 06:05:51,169 - ERROR - Image processing error for UUID 1fd2fae7-8eb2-40b1-9df1-fac90f56e17f_1732860242: Invalid image format
+2024-11-29 06:05:51,170 - ERROR - OCR processing error for UUID 1fd2fae7-8eb2-40b1-9df1-fac90f56e17f_1732860242: Image processing error: Invalid image format
+2024-11-29 06:05:51,174 - ERROR - Image processing error for UUID f4c5c958-f9d3-4516-9768-76887856afae_1732860242: Invalid image format
+2024-11-29 06:05:51,174 - ERROR - OCR processing error for UUID f4c5c958-f9d3-4516-9768-76887856afae_1732860242: Image processing error: Invalid image format
+2024-11-29 06:05:51,178 - ERROR - Image processing error for UUID ad83e299-2039-40ad-a774-2b973020ba48_1732860242: Invalid image format
+2024-11-29 06:05:51,178 - ERROR - OCR processing error for UUID ad83e299-2039-40ad-a774-2b973020ba48_1732860242: Image processing error: Invalid image format
+2024-11-29 06:05:51,182 - ERROR - Image processing error for UUID e3319857-1078-4cad-82d5-68af47b3f801_1732860242: Invalid image format
+2024-11-29 06:05:51,183 - ERROR - OCR processing error for UUID e3319857-1078-4cad-82d5-68af47b3f801_1732860242: Image processing error: Invalid image format
+2024-11-29 06:05:51,187 - ERROR - Image processing error for UUID d242f37f-58c6-4804-97fc-8d2fe2cd9fbb_1732860242: Invalid image format
+2024-11-29 06:05:51,187 - ERROR - OCR processing error for UUID d242f37f-58c6-4804-97fc-8d2fe2cd9fbb_1732860242: Image processing error: Invalid image format
+2024-11-29 06:05:51,191 - ERROR - Image processing error for UUID 4c7920e7-f2d8-448f-b04c-f69b72f55fcc_1732860242: Invalid image format
+2024-11-29 06:05:51,191 - ERROR - OCR processing error for UUID 4c7920e7-f2d8-448f-b04c-f69b72f55fcc_1732860242: Image processing error: Invalid image format
+2024-11-29 06:05:51,195 - ERROR - Image processing error for UUID f20f1e91-dbee-420d-89ef-e6c2b381bb38_1732860242: Invalid image format
+2024-11-29 06:05:51,195 - ERROR - OCR processing error for UUID f20f1e91-dbee-420d-89ef-e6c2b381bb38_1732860242: Image processing error: Invalid image format
+2024-11-29 06:05:51,199 - ERROR - Image processing error for UUID c954d7b4-e04e-46b1-a9e8-7f2e72e2bdc5_1732860242: Invalid image format
+2024-11-29 06:05:51,200 - ERROR - OCR processing error for UUID c954d7b4-e04e-46b1-a9e8-7f2e72e2bdc5_1732860242: Image processing error: Invalid image format
+2024-11-29 06:05:51,203 - ERROR - Image processing error for UUID f9cf67b1-f826-45bb-a8c7-cd37cd335b16_1732860242: Invalid image format
+2024-11-29 06:05:51,204 - ERROR - OCR processing error for UUID f9cf67b1-f826-45bb-a8c7-cd37cd335b16_1732860242: Image processing error: Invalid image format
+2024-11-29 06:05:51,208 - ERROR - Image processing error for UUID df52a102-8698-43e9-9bd3-3fb843f7d26e_1732860242: Invalid image format
+2024-11-29 06:05:51,208 - ERROR - OCR processing error for UUID df52a102-8698-43e9-9bd3-3fb843f7d26e_1732860242: Image processing error: Invalid image format
+2024-11-29 06:05:51,212 - ERROR - Image processing error for UUID be2ae2ac-94a5-4be4-b474-9a7e0bfd5b67_1732860242: Invalid image format
+2024-11-29 06:05:51,212 - ERROR - OCR processing error for UUID be2ae2ac-94a5-4be4-b474-9a7e0bfd5b67_1732860242: Image processing error: Invalid image format
+2024-11-29 06:05:51,216 - ERROR - Image processing error for UUID 6235cae9-5186-4470-9f2a-d23ec420825e_1732860242: Invalid image format
+2024-11-29 06:05:51,216 - ERROR - OCR processing error for UUID 6235cae9-5186-4470-9f2a-d23ec420825e_1732860242: Image processing error: Invalid image format
+2024-11-29 06:05:51,220 - ERROR - Image processing error for UUID 1941a65a-ea07-4aec-9500-60fdb7c58823_1732860242: Invalid image format
+2024-11-29 06:05:51,220 - ERROR - OCR processing error for UUID 1941a65a-ea07-4aec-9500-60fdb7c58823_1732860242: Image processing error: Invalid image format
+2024-11-29 06:05:51,225 - ERROR - Image processing error for UUID 3afaa321-1df5-4400-9fbe-6c0ced6662c7_1732860242: Invalid image format
+2024-11-29 06:05:51,225 - ERROR - OCR processing error for UUID 3afaa321-1df5-4400-9fbe-6c0ced6662c7_1732860242: Image processing error: Invalid image format
+2024-11-29 06:05:51,229 - ERROR - Image processing error for UUID d14bf1f9-3aaf-464f-9942-1586360f0637_1732860242: Invalid image format
+2024-11-29 06:05:51,229 - ERROR - OCR processing error for UUID d14bf1f9-3aaf-464f-9942-1586360f0637_1732860242: Image processing error: Invalid image format
+2024-11-29 06:05:51,233 - ERROR - Image processing error for UUID 56e6f036-f9e8-49e3-98e7-375ec56a9786_1732860242: Invalid image format
+2024-11-29 06:05:51,233 - ERROR - OCR processing error for UUID 56e6f036-f9e8-49e3-98e7-375ec56a9786_1732860242: Image processing error: Invalid image format
+2024-11-29 06:05:51,237 - ERROR - Image processing error for UUID f6beee59-f7c4-4f28-a188-d3eb0a24174b_1732860242: Invalid image format
+2024-11-29 06:05:51,238 - ERROR - OCR processing error for UUID f6beee59-f7c4-4f28-a188-d3eb0a24174b_1732860242: Image processing error: Invalid image format
+2024-11-29 06:05:51,242 - ERROR - Image processing error for UUID 9b445b72-58f9-4949-bfde-df2f525816c7_1732860242: Invalid image format
+2024-11-29 06:05:51,242 - ERROR - OCR processing error for UUID 9b445b72-58f9-4949-bfde-df2f525816c7_1732860242: Image processing error: Invalid image format
+2024-11-29 06:05:51,246 - ERROR - Image processing error for UUID 3cdd52d2-d4d5-4eca-92ee-e05f408678e2_1732860242: Invalid image format
+2024-11-29 06:05:51,246 - ERROR - OCR processing error for UUID 3cdd52d2-d4d5-4eca-92ee-e05f408678e2_1732860242: Image processing error: Invalid image format
+2024-11-29 06:05:51,250 - ERROR - Image processing error for UUID 11fb3f5e-7779-4f84-bb56-98d5ba668cb9_1732860242: Invalid image format
+2024-11-29 06:05:51,250 - ERROR - OCR processing error for UUID 11fb3f5e-7779-4f84-bb56-98d5ba668cb9_1732860242: Image processing error: Invalid image format
+2024-11-29 06:05:51,255 - ERROR - Image processing error for UUID 68b4fcc9-690f-422c-940a-ddadaf2f57ba_1732860242: Invalid image format
+2024-11-29 06:05:51,255 - ERROR - OCR processing error for UUID 68b4fcc9-690f-422c-940a-ddadaf2f57ba_1732860242: Image processing error: Invalid image format
+2024-11-29 06:05:51,259 - ERROR - Image processing error for UUID 0664fdd9-d11a-464e-a400-c8bbd893f23b_1732860242: Invalid image format
+2024-11-29 06:05:51,259 - ERROR - OCR processing error for UUID 0664fdd9-d11a-464e-a400-c8bbd893f23b_1732860242: Image processing error: Invalid image format
+2024-11-29 06:31:48,986 - INFO - Successfully initialized all OCR readers with local models
+2024-12-02 00:18:16,393 - INFO - Successfully initialized all OCR readers with local models
+2024-12-11 04:19:34,740 - INFO - Successfully initialized all OCR readers with local models

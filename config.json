@@ -1,0 +1,36 @@
+{
+    "max_processor_count" : 24,
+    "max_thread_count" : 10,
+    "tika_app": {
+        "tika_server_ip": "221.151.83.139",
+        "tika_server_port": 9991,
+        "tika_server_count": 36,
+        "tika_xms": 10,
+        "tika_xmx": 10240,
+        "copy_list" : [
+            "tika-server.jar",
+            "tika_config.json",
+            "tika-config.xml"
+        ]
+    },
+    "ocr_info" : {
+        "ocr_server_ip" : "localhost",
+        "ocr_server_port" : 10000,
+        "download_mode" : false,
+        "ocr_mode" : "single",
+        "server_count" : 4,
+        "log_to_level" : "logging.ERROR",
+        "log_to_file" : false   ,
+        "log_to_console" : true,
+        "log_file_path" : "logs/ocr_server.log",
+        "ocr_languages" : [
+            "en", 
+            "ko",
+            "ja",
+            "fr",
+            "ch_sim",
+            "ch_tra",
+            "sp"
+        ]
+    }
+}
